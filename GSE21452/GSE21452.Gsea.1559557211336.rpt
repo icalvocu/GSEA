@@ -1,0 +1,34 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1559557211336
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	/home/giancarlo/gsea_home/output/jun03
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	gseaftp.broadinstitute.org://pub/gsea/gene_sets_final/c2.all.v6.2.symbols.gmt,gseaftp.broadinstitute.org://pub/gsea/gene_sets_final/c5.all.v6.2.symbols.gmt,gseaftp.broadinstitute.org://pub/gsea/gene_sets_final/c6.all.v6.2.symbols.gmt,gseaftp.broadinstitute.org://pub/gsea/gene_sets_final/c7.all.v6.2.symbols.gmt
+param	plot_top_x	20
+param	nperm	1000
+param	order	descending
+param	rpt_label	GSE21452
+param	rnd_seed	timestamp
+param	set_min	15
+param	res	/home/giancarlo/Documents/gsea/GSE21452_series_matrix.gct
+param	chip	gseaftp.broadinstitute.org://pub/gsea/annotations/HG_U133_Plus_2.chip
+param	create_svgs	false
+param	cls	/home/giancarlo/gsea_home/output/jun03/226623_at_profile_in_GSE21452_series_matrix.cls#226623_at
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Pearson
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	phenotype
+param	collapse	true
+
+file	/home/giancarlo/gsea_home/output/jun03/GSE21452.Gsea.1559557211336/index.html

@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	4925	0.13391350209712982	-0.19445072	No	
+row_1	CUL4A	CUL4A	cullin 4A	8540	0.06055549532175064	-0.34975645	No	
+row_2	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	12546	-0.01186985895037651	-0.5403445	No	
+row_3	CUL4B	CUL4B	cullin 4B	14377	-0.04685613512992859	-0.6135683	No	
+row_4	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	16103	-0.0824761688709259	-0.66977453	Yes	
+row_5	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	16248	-0.08605798333883286	-0.64797896	Yes	
+row_6	GTF2H3	GTF2H3	general transcription factor IIH, polypeptide 3, 34kDa	16617	-0.09494712203741074	-0.63409126	Yes	
+row_7	RPA2	RPA2	replication protein A2, 32kDa	17030	-0.10444801300764084	-0.61916244	Yes	
+row_8	ERCC5	ERCC5	me))	17093	-0.10586239397525787	-0.5867577	Yes	
+row_9	RPA1	RPA1	replication protein A1, 70kDa	17319	-0.1122601106762886	-0.5601311	Yes	
+row_10	GTF2H2	GTF2H2	general transcription factor IIH, polypeptide 2, 44kDa	17517	-0.11770182847976685	-0.5303237	Yes	
+row_11	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	17848	-0.12722937762737274	-0.5037898	Yes	
+row_12	GTF2H4	GTF2H4	general transcription factor IIH, polypeptide 4, 52kDa	18134	-0.13614410161972046	-0.4720874	Yes	
+row_13	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	18428	-0.14605571329593658	-0.4374577	Yes	
+row_14	DDB2	DDB2	damage-specific DNA binding protein 2, 48kDa	19048	-0.1704382300376892	-0.41050753	Yes	
+row_15	RBX1	RBX1	ring-box 1	19597	-0.20022739470005035	-0.3701422	Yes	
+row_16	GTF2H5	GTF2H5	general transcription factor IIH, polypeptide 5	19989	-0.22865675389766693	-0.31263882	Yes	
+row_17	RPA3	RPA3	replication protein A3, 14kDa	20016	-0.23062777519226074	-0.23674469	Yes	
+row_18	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	20114	-0.23961877822875977	-0.16129167	Yes	
+row_19	GTF2H1	GTF2H1	general transcription factor IIH, polypeptide 1, 62kDa	20293	-0.2601676285266876	-0.08289891	Yes	
+row_20	XPA	XPA	xeroderma pigmentosum, complementation group A	20453	-0.29294899106025696	0.007383969	Yes	
