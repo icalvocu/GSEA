@@ -1,0 +1,96 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	HIST1H4C	histone cluster 1, H4c	3	0.9760323762893677	0.015346286	Yes	
+row_1	HIST1H4D	HIST1H4D	histone cluster 1, H4d	6	0.9720510840415955	0.030677928	Yes	
+row_2	HIST1H2AE	HIST1H2AE	histone cluster 1, H2ae	8	0.9669224619865417	0.045976713	Yes	
+row_3	HIST1H4E	HIST1H4E	histone cluster 1, H4e	11	0.964266836643219	0.0611848	Yes	
+row_4	HIST1H4B	HIST1H4B	histone cluster 1, H4b	17	0.957683801651001	0.07614276	Yes	
+row_5	HIST1H4L	HIST1H4L	histone cluster 1, H4l	30	0.9490928649902344	0.09062451	Yes	
+row_6	HIST1H3G	HIST1H3G	histone cluster 1, H3g	37	0.9450933337211609	0.10533408	Yes	
+row_7	HIST1H2BH	HIST1H2BH	histone cluster 1, H2bh	55	0.9355729818344116	0.1193585	Yes	
+row_8	HIST1H2BM	HIST1H2BM	histone cluster 1, H2bm	66	0.9308831095695496	0.13364832	Yes	
+row_9	HIST1H3I	HIST1H3I	histone cluster 1, H3i	75	0.9285191297531128	0.14799772	Yes	
+row_10	HIST1H2BF	HIST1H2BF	histone cluster 1, H2bf	118	0.9148306846618652	0.1604792	Yes	
+row_11	HIST1H3F	HIST1H3F	histone cluster 1, H3f	127	0.9119916558265686	0.17456627	Yes	
+row_12	HIST1H3A	HIST1H3A	histone cluster 1, H3a	138	0.9099676012992859	0.18852411	Yes	
+row_13	HIST1H2BI	HIST1H2BI	histone cluster 1, H2bi	180	0.9020419120788574	0.20085116	Yes	
+row_14	POLR2E	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	229	0.8909144401550293	0.21266174	Yes	
+row_15	HIST1H2BC	HIST1H2BC	histone cluster 1, H2bc	263	0.8839132785797119	0.22508943	Yes	
+row_16	POLR2L	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	294	0.8793156147003174	0.23758979	Yes	
+row_17	HIST1H2BE	HIST1H2BE	histone cluster 1, H2be	324	0.8748018145561218	0.25006706	Yes	
+row_18	HIST1H2BL	HIST1H2BL	histone cluster 1, H2bl	486	0.8538356423377991	0.25580314	Yes	
+row_19	HIST1H4F	HIST1H4F	histone cluster 1, H4f	498	0.8520819544792175	0.26879364	Yes	
+row_20	POLRMT	POLRMT	polymerase (RNA) mitochondrial (DNA directed)	548	0.8472800850868225	0.27986312	Yes	
+row_21	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	571	0.8443673253059387	0.29219714	Yes	
+row_22	HIST1H4H	HIST1H4H	histone cluster 1, H4h	574	0.8437955379486084	0.30549306	Yes	
+row_23	GTF3C2	GTF3C2	general transcription factor IIIC, polypeptide 2, beta 110kDa	577	0.843668520450592	0.31878698	Yes	
+row_24	HIST1H2BG	HIST1H2BG	histone cluster 1, H2bg	592	0.8415336012840271	0.3314644	Yes	
+row_25	HIST1H3B	HIST1H3B	histone cluster 1, H3b	628	0.8380300402641296	0.34306672	Yes	
+row_26	H2AFX	H2AFX	H2A histone family, member X	630	0.8378352522850037	0.3563166	Yes	
+row_27	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	845	0.8192242980003357	0.35893026	Yes	
+row_28	HIST1H2BJ	HIST1H2BJ	histone cluster 1, H2bj	855	0.8183379769325256	0.37148228	Yes	
+row_29	HIST1H3J	HIST1H3J	histone cluster 1, H3j	857	0.8182434439659119	0.38442117	Yes	
+row_30	HIST1H4A	HIST1H4A	histone cluster 1, H4a	941	0.8128736615180969	0.3932939	Yes	
+row_31	H2AFZ	H2AFZ	H2A histone family, member Z	992	0.8090826272964478	0.4037085	Yes	
+row_32	MAPK3	MAPK3	mitogen-activated protein kinase 3	1170	0.7958111763000488	0.40774682	Yes	
+row_33	HIST1H2AC	HIST1H2AC	histone cluster 1, H2ac	1524	0.7709450721740723	0.40284595	Yes	
+row_34	UBTF	UBTF	upstream binding transcription factor, RNA polymerase I	1607	0.7657293677330017	0.4110189	Yes	
+row_35	GTF3C5	GTF3C5	general transcription factor IIIC, polypeptide 5, 63kDa	1688	0.7606023550033569	0.4192076	Yes	
+row_36	TAF1C	TAF1C	TATA box binding protein (TBP)-associated factor, RNA polymerase I, C, 110kDa	1788	0.7544389367103577	0.42637601	Yes	
+row_37	HIST1H4I	HIST1H4I	histone cluster 1, H4i	1980	0.7423290610313416	0.4288858	Yes	
+row_38	SNAPC2	SNAPC2	small nuclear RNA activating complex, polypeptide 2, 45kDa	2171	0.7309514880180359	0.4312635	Yes	
+row_39	HIST2H2BE	HIST2H2BE	histone cluster 2, H2be	2265	0.7254136800765991	0.43826252	Yes	
+row_40	HIST1H2BO	HIST1H2BO	histone cluster 1, H2bo	3273	0.666696310043335	0.39995632	No	
+row_41	EHMT2	EHMT2	euchromatic histone-lysine N-methyltransferase 2	3298	0.6651141047477722	0.4093481	No	
+row_42	HIST1H3C	HIST1H3C	histone cluster 1, H3c	4161	0.6103867888450623	0.37718764	No	
+row_43	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	4390	0.5954782962799072	0.37557027	No	
+row_44	RRN3	RRN3	RRN3 RNA polymerase I transcription factor homolog (S. cerevisiae)	4852	0.560335099697113	0.3620833	No	
+row_45	HIST1H3E	HIST1H3E	histone cluster 1, H3e	5126	0.540912389755249	0.3574151	No	
+row_46	HIST1H2AJ	HIST1H2AJ	histone cluster 1, H2aj	5234	0.533008873462677	0.36068055	No	
+row_47	HIST1H2AB	HIST1H2AB	histone cluster 1, H2ab	5386	0.5203566551208496	0.361609	No	
+row_48	HIST1H2BD	HIST1H2BD	histone cluster 1, H2bd	6880	0.3903103768825531	0.2953214	No	
+row_49	HIST1H2BB	HIST1H2BB	histone cluster 1, H2bb	7344	0.35120269656181335	0.27841792	No	
+row_50	TBP	TBP	TATA box binding protein	7460	0.33957794308662415	0.27822474	No	
+row_51	HIST1H2BA	HIST1H2BA	histone cluster 1, H2ba	7904	0.296800434589386	0.2614287	No	
+row_52	POLR3D	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	7998	0.28826093673706055	0.2614891	No	
+row_53	POLR3A	POLR3A	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa	8720	0.21321377158164978	0.2298699	No	
+row_54	CBX3	CBX3	chromobox homolog 3 (HP1 gamma homolog, Drosophila)	9283	0.15410037338733673	0.20503163	No	
+row_55	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	9681	0.11540509760379791	0.18758968	No	
+row_56	LZTS1	LZTS1	leucine zipper, putative tumor suppressor 1	10199	0.06401011347770691	0.16350614	No	
+row_57	TAF1A	TAF1A	TATA box binding protein (TBP)-associated factor, RNA polymerase I, A, 48kDa	10262	0.05934424698352814	0.16143808	No	
+row_58	POLR3E	POLR3E	polymerase (RNA) III (DNA directed) polypeptide E (80kD)	10284	0.056933656334877014	0.16132222	No	
+row_59	H3F3B	H3F3B	H3 histone, family 3B (H3.3B)	10312	0.05383199080824852	0.16086586	No	
+row_60	HIST3H2BB	HIST3H2BB	histone cluster 3, H2bb	10805	0.00309747620485723	0.13702922	No	
+row_61	SNAPC5	SNAPC5	small nuclear RNA activating complex, polypeptide 5, 19kDa	12212	-0.13952970504760742	0.070984825	No	
+row_62	HIST1H3H	HIST1H3H	histone cluster 1, H3h	12555	-0.17583689093589783	0.057172216	No	
+row_63	GTF2H3	GTF2H3	general transcription factor IIH, polypeptide 3, 34kDa	13429	-0.2615900933742523	0.018941512	No	
+row_64	TFAM	TFAM	transcription factor A, mitochondrial	14116	-0.32416850328445435	-0.009217374	No	
+row_65	KAT2B	null	null	15123	-0.4148263931274414	-0.051472794	No	
+row_66	PTRF	PTRF	polymerase I and transcript release factor	15696	-0.46864065527915955	-0.07180405	No	
+row_67	BRF1	BRF1	BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB (S. cerevisiae)	16132	-0.5062812566757202	-0.08488673	No	
+row_68	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	16595	-0.5477517247200012	-0.09862198	No	
+row_69	TAF1B	TAF1B	TATA box binding protein (TBP)-associated factor, RNA polymerase I, B, 63kDa	16623	-0.55067378282547	-0.0911923	No	
+row_70	BRF2	BRF2	BRF2, subunit of RNA polymerase III transcription initiation factor, BRF1-like	16720	-0.5572602152824402	-0.08700792	No	
+row_71	CCNH	CCNH	cyclin H	16820	-0.56514972448349	-0.08284395	No	
+row_72	ZNF143	ZNF143	zinc finger protein 143	16864	-0.5692231059074402	-0.07589662	No	
+row_73	POLR1B	POLR1B	polymerase (RNA) I polypeptide B, 128kDa	17194	-0.5979012250900269	-0.082378946	No	
+row_74	HIST4H4	HIST4H4	histone cluster 4, H4	17288	-0.6074893474578857	-0.07725166	No	
+row_75	POLR1C	POLR1C	polymerase (RNA) I polypeptide C, 30kDa	17392	-0.6153308153152466	-0.072485395	No	
+row_76	POLR1D	POLR1D	polymerase (RNA) I polypeptide D, 16kDa	17669	-0.6391709446907043	-0.07573961	No	
+row_77	SNAPC1	SNAPC1	small nuclear RNA activating complex, polypeptide 1, 43kDa	18035	-0.6703272461891174	-0.0828201	No	
+row_78	SNAPC4	SNAPC4	small nuclear RNA activating complex, polypeptide 4, 190kDa	18143	-0.6778160929679871	-0.07725625	No	
+row_79	TFB2M	TFB2M	transcription factor B2, mitochondrial	18275	-0.6877935528755188	-0.07269918	No	
+row_80	CDK7	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	18431	-0.701549768447876	-0.06908894	No	
+row_81	GTF3C3	GTF3C3	general transcription factor IIIC, polypeptide 3, 102kDa	18488	-0.7071425318717957	-0.060583636	No	
+row_82	POU2F1	POU2F1	POU domain, class 2, transcription factor 1	18590	-0.7142423391342163	-0.054150317	No	
+row_83	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	18730	-0.7268137335777283	-0.0493623	No	
+row_84	POLR3B	POLR3B	polymerase (RNA) III (DNA directed) polypeptide B	18875	-0.7391124963760376	-0.044621814	No	
+row_85	SNAPC3	SNAPC3	small nuclear RNA activating complex, polypeptide 3, 50kDa	19009	-0.7514719367027283	-0.039151125	No	
+row_86	POLR3C	POLR3C	polymerase (RNA) III (DNA directed) polypeptide C (62kD)	19220	-0.7707263827323914	-0.037113048	No	
+row_87	POLR1A	POLR1A	polymerase (RNA) I polypeptide A, 194kDa	19643	-0.8088089227676392	-0.04476277	No	
+row_88	GTF2H1	GTF2H1	general transcription factor IIH, polypeptide 1, 62kDa	19648	-0.8093488216400146	-0.032110695	No	
+row_89	MNAT1	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	19674	-0.8115956783294678	-0.02044247	No	
+row_90	MTERF	MTERF	mitochondrial transcription termination factor	19920	-0.8338778614997864	-0.019101225	No	
+row_91	MBD2	MBD2	methyl-CpG binding domain protein 2	19953	-0.8371904492378235	-0.007366591	No	
+row_92	POLR3GL	POLR3GL	polymerase (RNA) III (DNA directed) polypeptide G (32kD) like	20179	-0.8613342642784119	-0.0046185795	No	
+row_93	NFIB	NFIB	nuclear factor I/B	20408	-0.8931727409362793	-0.0015108617	No	
+row_94	HIST1H2BK	HIST1H2BK	histone cluster 1, H2bk	20674	-0.9607835412025452	8.737077E-4	No	

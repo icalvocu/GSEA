@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC30A7	SLC30A7	solute carrier family 30 (zinc transporter), member 7	3985	0.6215356588363647	-0.11970056	No	
+row_1	STX1A	STX1A	syntaxin 1A (brain)	8301	0.2587909996509552	-0.2979868	No	
+row_2	EXOC4	EXOC4	exocyst complex component 4	9737	0.11027351766824722	-0.354433	No	
+row_3	ERO1L	ERO1L	ERO1-like (S. cerevisiae)	11041	-0.020595025271177292	-0.41503286	No	
+row_4	SNAP25	SNAP25	synaptosomal-associated protein, 25kDa	11668	-0.08624036610126495	-0.43517563	No	
+row_5	PCSK2	PCSK2	proprotein convertase subtilisin/kexin type 2	12582	-0.17894011735916138	-0.45830634	No	
+row_6	EXOC2	EXOC2	exocyst complex component 2	13057	-0.22644154727458954	-0.45462292	No	
+row_7	RAB27A	RAB27A	RAB27A, member RAS oncogene family	13732	-0.2881792187690735	-0.45335796	No	
+row_8	PCSK1	PCSK1	proprotein convertase subtilisin/kexin type 1	14375	-0.34767743945121765	-0.4435538	No	
+row_9	EXOC6	EXOC6	exocyst complex component 6	18438	-0.7019020915031433	-0.5575348	Yes	
+row_10	CPE	CPE	carboxypeptidase E	18679	-0.7227040529251099	-0.4842195	Yes	
+row_11	EXOC5	EXOC5	exocyst complex component 5	18763	-0.7295831441879272	-0.40250248	Yes	
+row_12	VAMP2	VAMP2	vesicle-associated membrane protein 2 (synaptobrevin 2)	19145	-0.7645306587219238	-0.3310917	Yes	
+row_13	SLC30A5	SLC30A5	solute carrier family 30 (zinc transporter), member 5	19332	-0.7797595858573914	-0.24846017	Yes	
+row_14	KIF5B	KIF5B	kinesin family member 5B	19930	-0.834830105304718	-0.17923559	Yes	
+row_15	MYO5A	MYO5A	myosin VA (heavy chain 12, myoxin)	20339	-0.8834686279296875	-0.0951546	Yes	
+row_16	EXOC1	EXOC1	exocyst complex component 1	20660	-0.9546574950218201	0.0015477522	Yes	

@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOCS3	SOCS3	suppressor of cytokine signaling 3	1675	0.7613195776939392	-0.032955	No	
+row_1	GNAS	GNAS	GNAS complex locus	3150	0.6741445660591125	-0.061690968	No	
+row_2	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	3678	0.6416284441947937	-0.04664271	No	
+row_3	BASP1	BASP1	brain abundant, membrane attached signal protein 1	3681	0.6415425539016724	-0.006187232	No	
+row_4	IL1RN	IL1RN	interleukin 1 receptor antagonist	5724	0.4928828775882721	-0.07387493	No	
+row_5	PON3	PON3	paraoxonase 3	6292	0.4428335726261139	-0.07332882	No	
+row_6	SOSTDC1	SOSTDC1	sclerostin domain containing 1	6332	0.4390268325805664	-0.04746547	No	
+row_7	LIFR	LIFR	leukemia inhibitory factor receptor alpha	7862	0.3011534810066223	-0.10244071	No	
+row_8	CCR9	CCR9	chemokine (C-C motif) receptor 9	8159	0.2745680510997772	-0.09941299	No	
+row_9	APOA2	APOA2	apolipoprotein A-II	8296	0.2593168020248413	-0.089604504	No	
+row_10	MYT1	MYT1	myelin transcription factor 1	9122	0.1686420887708664	-0.11887871	No	
+row_11	MAP3K6	MAP3K6	mitogen-activated protein kinase kinase kinase 6	10297	0.0557330846786499	-0.17218332	No	
+row_12	KNG1	KNG1	kininogen 1	10477	0.03686205670237541	-0.17851774	No	
+row_13	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	10657	0.018726497888565063	-0.18599854	No	
+row_14	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	10833	3.1344161834567785E-4	-0.19444962	No	
+row_15	LANCL1	LANCL1	LanC lantibiotic synthetase component C-like 1 (bacterial)	11067	-0.023798350244760513	-0.20422368	No	
+row_16	SLPI	SLPI	secretory leukocyte peptidase inhibitor	11159	-0.032942257821559906	-0.20654625	No	
+row_17	RYR2	RYR2	ryanodine receptor 2 (cardiac)	11814	-0.10028573125600815	-0.23186404	No	
+row_18	PILRA	PILRA	paired immunoglobin-like type 2 receptor alpha	12207	-0.13884133100509644	-0.24206257	No	
+row_19	IGJ	IGJ	immunoglobulin J polypeptide, linker protein for immunoglobulin alpha and mu polypeptides	14031	-0.31732991337776184	-0.31024638	No	
+row_20	MACC1	null	null	14085	-0.32218798995018005	-0.29244614	No	
+row_21	RELN	RELN	reelin	14308	-0.3423919677734375	-0.28154925	No	
+row_22	FAM46C	FAM46C	family with sequence similarity 46, member C	16797	-0.563385009765625	-0.36636913	No	
+row_23	SRP54	SRP54	signal recognition particle 54kDa	17963	-0.6640550494194031	-0.3807857	Yes	
+row_24	BCL2	BCL2	B-cell CLL/lymphoma 2	17993	-0.6669838428497314	-0.340029	Yes	
+row_25	HSPA4L	HSPA4L	heat shock 70kDa protein 4-like	18784	-0.7315289974212646	-0.3320286	Yes	
+row_26	CWC22	null	null	18969	-0.7478047013282776	-0.29366595	Yes	
+row_27	KIAA0753	KIAA0753	KIAA0753	19049	-0.7550612688064575	-0.24976207	Yes	
+row_28	ALMS1	ALMS1	Alstrom syndrome 1	19372	-0.7840671539306641	-0.21578714	Yes	
+row_29	SLC16A9	SLC16A9	solute carrier family 16, member 9 (monocarboxylic acid transporter 9)	19965	-0.8386727571487427	-0.19142993	Yes	
+row_30	HIST1H1C	HIST1H1C	histone cluster 1, H1c	20269	-0.8751884698867798	-0.15077546	Yes	
+row_31	FAM134B	null	null	20280	-0.876387894153595	-0.095862515	Yes	
+row_32	MBNL2	MBNL2	muscleblind-like 2 (Drosophila)	20317	-0.8806430697441101	-0.041939117	Yes	
+row_33	NR2F2	NR2F2	nuclear receptor subfamily 2, group F, member 2	20652	-0.9498829245567322	0.001936265	Yes	

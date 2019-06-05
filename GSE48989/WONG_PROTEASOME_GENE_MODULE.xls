@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD3	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	1506	0.7721140384674072	-0.04591643	No	
+row_1	FBXO21	FBXO21	F-box protein 21	2055	0.737676739692688	-0.046634994	No	
+row_2	PSME3	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	2340	0.7203125953674316	-0.03517386	No	
+row_3	PSMD10	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	3599	0.6468056440353394	-0.07346463	No	
+row_4	PSMB6	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	3778	0.6352832317352295	-0.05984588	No	
+row_5	USP11	USP11	ubiquitin specific peptidase 11	4405	0.594416618347168	-0.069358006	No	
+row_6	CDC34	CDC34	cell division cycle 34	4687	0.5729609131813049	-0.06291021	No	
+row_7	PSMC5	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	4705	0.571488082408905	-0.043726366	No	
+row_8	PSMC3	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	4923	0.5548858046531677	-0.034811337	No	
+row_9	SQSTM1	SQSTM1	sequestosome 1	5045	0.546145498752594	-0.02155226	No	
+row_10	PSMA5	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	6270	0.44474557042121887	-0.06527008	No	
+row_11	USP18	USP18	ubiquitin specific peptidase 18	7071	0.3737040162086487	-0.090937346	No	
+row_12	PSMD8	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	7703	0.3168572783470154	-0.11040876	No	
+row_13	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	7926	0.29455164074897766	-0.110849984	No	
+row_14	PSMB4	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	8227	0.2665347456932068	-0.116050206	No	
+row_15	PSME1	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	8606	0.22312569618225098	-0.1265483	No	
+row_16	PSMB2	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	9692	0.11447466164827347	-0.17509574	No	
+row_17	UBR7	null	null	11477	-0.06596856564283371	-0.2591994	No	
+row_18	USP1	USP1	ubiquitin specific peptidase 1	12271	-0.14581513404846191	-0.2925058	No	
+row_19	UBE2C	UBE2C	ubiquitin-conjugating enzyme E2C	12391	-0.15757229924201965	-0.29275346	No	
+row_20	UBE2T	UBE2T	ubiquitin-conjugating enzyme E2T (putative)	14119	-0.3244498372077942	-0.36504698	No	
+row_21	PSMB8	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	14332	-0.3442496061325073	-0.36326393	No	
+row_22	UCHL3	UCHL3	ubiquitin carboxyl-terminal esterase L3 (ubiquitin thiolesterase)	15898	-0.48650798201560974	-0.422037	No	
+row_23	USP39	USP39	ubiquitin specific peptidase 39	16897	-0.5714045763015747	-0.45037365	No	
+row_24	USP8	USP8	ubiquitin specific peptidase 8	17372	-0.6142122149467468	-0.4518302	Yes	
+row_25	UBE2Q2	UBE2Q2	ubiquitin-conjugating enzyme E2Q (putative) 2	17476	-0.6237407326698303	-0.4349827	Yes	
+row_26	PSMD12	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	17746	-0.6456236243247986	-0.4254098	Yes	
+row_27	USP25	USP25	ubiquitin specific peptidase 25	17786	-0.6496269702911377	-0.404556	Yes	
+row_28	PSMA7	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	18050	-0.6711969375610352	-0.3937972	Yes	
+row_29	USP46	USP46	ubiquitin specific peptidase 46	18099	-0.6743806600570679	-0.37251273	Yes	
+row_30	SIAH1	SIAH1	seven in absentia homolog 1 (Drosophila)	18158	-0.6787058115005493	-0.35156125	Yes	
+row_31	USP10	USP10	ubiquitin specific peptidase 10	18240	-0.6845824718475342	-0.3315181	Yes	
+row_32	UBA6	null	null	18626	-0.7179332971572876	-0.3250325	Yes	
+row_33	UBE2D2	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	18813	-0.7340133786201477	-0.3083448	Yes	
+row_34	USP13	USP13	ubiquitin specific peptidase 13 (isopeptidase T-3)	18843	-0.7362348437309265	-0.2839746	Yes	
+row_35	ARIH1	ARIH1	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)	18899	-0.7411254644393921	-0.26069254	Yes	
+row_36	SIAH2	SIAH2	seven in absentia homolog 2 (Drosophila)	18956	-0.7463387846946716	-0.2372764	Yes	
+row_37	PSMB3	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	19060	-0.7567904591560364	-0.21577096	Yes	
+row_38	UBE3A	UBE3A	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	19405	-0.786576509475708	-0.20489626	Yes	
+row_39	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	19521	-0.7963881492614746	-0.18258579	Yes	
+row_40	PSMA4	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	19525	-0.7966662049293518	-0.15484053	Yes	
+row_41	PSMD1	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	19560	-0.8010400533676147	-0.12844373	Yes	
+row_42	PSMD14	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	19713	-0.8148595094680786	-0.107278794	Yes	
+row_43	USP4	USP4	ubiquitin specific peptidase 4 (proto-oncogene)	19716	-0.8153970241546631	-0.07882936	Yes	
+row_44	UBE2G1	UBE2G1	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)	19878	-0.8297565579414368	-0.057578832	Yes	
+row_45	UBE2R2	UBE2R2	ubiquitin-conjugating enzyme E2R 2	20490	-0.9064751863479614	-0.0554395	Yes	
+row_46	USP14	USP14	ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase)	20514	-0.9115170836448669	-0.024642183	Yes	
+row_47	UBA3	null	null	20649	-0.9487706422805786	0.002082743	Yes	

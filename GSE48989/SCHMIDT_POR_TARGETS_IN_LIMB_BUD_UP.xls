@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHCR7	DHCR7	7-dehydrocholesterol reductase	69	0.9300202131271362	0.06002328	Yes	
+row_1	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	580	0.8427541851997375	0.09276489	Yes	
+row_2	MVK	MVK	mevalonate kinase (mevalonic aciduria)	670	0.8345123529434204	0.14531367	Yes	
+row_3	CYP26A1	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	848	0.8189278244972229	0.19254309	Yes	
+row_4	MVD	MVD	mevalonate (diphospho) decarboxylase	1076	0.8031874299049377	0.23628105	Yes	
+row_5	ACLY	ACLY	ATP citrate lyase	1086	0.8019182682037354	0.29047975	Yes	
+row_6	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	1344	0.7823582291603088	0.33134717	Yes	
+row_7	CYP51A1	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	1446	0.7750914692878723	0.37926707	Yes	
+row_8	INSIG1	INSIG1	insulin induced gene 1	1911	0.7472929358482361	0.40773052	Yes	
+row_9	TM7SF2	TM7SF2	transmembrane 7 superfamily member 2	2268	0.7251712679862976	0.43991205	Yes	
+row_10	FOXC1	FOXC1	forkhead box C1	2273	0.7248749136924744	0.48910373	Yes	
+row_11	LSS	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	2595	0.7060831189155579	0.52167815	Yes	
+row_12	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	3591	0.6473286151885986	0.5176405	No	
+row_13	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5765	0.48987340927124023	0.44588193	No	
+row_14	ZMAT4	ZMAT4	zinc finger, matrin type 4	6531	0.4202440679073334	0.43750092	No	
+row_15	SQLE	SQLE	squalene epoxidase	11811	-0.09995896369218826	0.1889044	No	
+row_16	FGL1	FGL1	fibrinogen-like 1	11953	-0.11282263696193695	0.18976912	No	
+row_17	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	12708	-0.1914997547864914	0.16633612	No	
+row_18	STARD4	STARD4	START domain containing 4, sterol regulated	12948	-0.21623168885707855	0.16950461	No	
+row_19	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	13339	-0.25206950306892395	0.1678091	No	
+row_20	SC5DL	SC5DL	sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, fungal)-like	16924	-0.5734084844589233	0.033475235	No	
+row_21	FDFT1	FDFT1	farnesyl-diphosphate farnesyltransferase 1	17589	-0.6325398087501526	0.04444432	No	
+row_22	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	19246	-0.7726666331291199	0.016965562	No	
+row_23	AASDH	AASDH	-	19302	-0.7771373391151428	0.067250386	No	

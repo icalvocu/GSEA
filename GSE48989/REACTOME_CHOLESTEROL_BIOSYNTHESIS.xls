@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHCR7	DHCR7	7-dehydrocholesterol reductase	69	0.9300202131271362	0.068793036	Yes	
+row_1	PMVK	PMVK	phosphomevalonate kinase	122	0.9135174751281738	0.13712844	Yes	
+row_2	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	580	0.8427541851997375	0.18038575	Yes	
+row_3	MVK	MVK	mevalonate kinase (mevalonic aciduria)	670	0.8345123529434204	0.24080399	Yes	
+row_4	DHCR24	DHCR24	24-dehydrocholesterol reductase	840	0.8194543123245239	0.29618475	Yes	
+row_5	MVD	MVD	mevalonate (diphospho) decarboxylase	1076	0.8031874299049377	0.3471115	Yes	
+row_6	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	1344	0.7823582291603088	0.3948749	Yes	
+row_7	CYP51A1	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	1446	0.7750914692878723	0.45010412	Yes	
+row_8	EBP	EBP	emopamil binding protein (sterol isomerase)	1575	0.7673259377479553	0.50342506	Yes	
+row_9	TM7SF2	TM7SF2	transmembrane 7 superfamily member 2	2268	0.7251712679862976	0.52619594	Yes	
+row_10	LSS	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	2595	0.7060831189155579	0.5651898	Yes	
+row_11	SQLE	SQLE	squalene epoxidase	11811	-0.09995896369218826	0.12721348	No	
+row_12	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	12708	-0.1914997547864914	0.09872637	No	
+row_13	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	16357	-0.5281193256378174	-0.036767237	No	
+row_14	LBR	LBR	lamin B receptor	16493	-0.538438618183136	-0.0015369266	No	
+row_15	SC5DL	SC5DL	sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, fungal)-like	16924	-0.5734084844589233	0.02213645	No	
+row_16	FDFT1	FDFT1	farnesyl-diphosphate farnesyltransferase 1	17589	-0.6325398087501526	0.03907737	No	
+row_17	GGPS1	GGPS1	geranylgeranyl diphosphate synthase 1	17890	-0.65746009349823	0.075557716	No	
+row_18	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	19246	-0.7726666331291199	0.06994298	No	
