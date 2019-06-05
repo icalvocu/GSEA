@@ -1,0 +1,69 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	54	0.4111011326313019	0.039186936	Yes	
+row_1	OPRM1	OPRM1	opioid receptor, mu 1	56	0.4101921319961548	0.08086199	Yes	
+row_2	GRIN2C	GRIN2C	glutamate receptor, ionotropic, N-methyl D-aspartate 2C	100	0.3884885609149933	0.11828442	Yes	
+row_3	SHH	SHH	sonic hedgehog homolog (Drosophila)	245	0.3446461856365204	0.1463296	Yes	
+row_4	PPP1R9A	PPP1R9A	protein phosphatase 1, regulatory (inhibitor) subunit 9A	252	0.3432479202747345	0.1809518	Yes	
+row_5	ARRB2	ARRB2	arrestin, beta 2	279	0.3386296033859253	0.21413045	Yes	
+row_6	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	354	0.3282577693462372	0.24391694	Yes	
+row_7	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	996	0.2666391432285309	0.2398284	Yes	
+row_8	GRIK5	GRIK5	glutamate receptor, ionotropic, kainate 5	1025	0.2645207643508911	0.26537147	Yes	
+row_9	DRD2	DRD2	dopamine receptor D2	1044	0.26377198100090027	0.2913253	Yes	
+row_10	CHRNG	CHRNG	cholinergic receptor, nicotinic, gamma	1181	0.256365567445755	0.31078032	Yes	
+row_11	GSK3A	GSK3A	glycogen synthase kinase 3 alpha	1184	0.25624731183052063	0.33674777	Yes	
+row_12	SNCA	SNCA	synuclein, alpha (non A4 component of amyloid precursor)	1188	0.2560650110244751	0.362648	Yes	
+row_13	GSK3B	GSK3B	glycogen synthase kinase 3 beta	1198	0.25560230016708374	0.38820904	Yes	
+row_14	GABRA6	GABRA6	gamma-aminobutyric acid (GABA) A receptor, alpha 6	1234	0.2538190484046936	0.41232276	Yes	
+row_15	NPAS4	NPAS4	neuronal PAS domain protein 4	1422	0.2446047067642212	0.42809826	Yes	
+row_16	GABRG2	GABRG2	gamma-aminobutyric acid (GABA) A receptor, gamma 2	1563	0.23673713207244873	0.44536197	Yes	
+row_17	GABRA4	GABRA4	gamma-aminobutyric acid (GABA) A receptor, alpha 4	1780	0.22782757878303528	0.45801893	Yes	
+row_18	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	1889	0.22262611985206604	0.4754054	Yes	
+row_19	GLI2	GLI2	GLI-Kruppel family member GLI2	2047	0.21632690727710724	0.48976526	Yes	
+row_20	CHRND	CHRND	cholinergic receptor, nicotinic, delta	2521	0.19924061000347137	0.48700106	Yes	
+row_21	DGKI	DGKI	diacylglycerol kinase, iota	2603	0.19630762934684753	0.50302505	Yes	
+row_22	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	2834	0.18890687823295593	0.51104146	Yes	
+row_23	GLRA2	GLRA2	glycine receptor, alpha 2	3955	0.156680166721344	0.47244555	No	
+row_24	ANXA9	ANXA9	annexin A9	4013	0.15519973635673523	0.48545673	No	
+row_25	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	4334	0.14783799648284912	0.4849136	No	
+row_26	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4787	0.13732875883579254	0.47687435	No	
+row_27	NLGN3	NLGN3	neuroligin 3	4829	0.13622692227363586	0.48873472	No	
+row_28	GLI1	GLI1	glioma-associated oncogene homolog 1 (zinc finger protein)	5446	0.1223846822977066	0.4711902	No	
+row_29	SEZ6	SEZ6	seizure related 6 homolog (mouse)	5668	0.11766939610242844	0.4723987	No	
+row_30	DRD4	DRD4	dopamine receptor D4	5711	0.11664590239524841	0.48221865	No	
+row_31	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	6803	0.09343387186527252	0.4386015	No	
+row_32	GRIN2A	GRIN2A	glutamate receptor, ionotropic, N-methyl D-aspartate 2A	6828	0.09284583479166031	0.44687697	No	
+row_33	GHRL	GHRL	ghrelin/obestatin preprohormone	7010	0.08948825299739838	0.44716656	No	
+row_34	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	7151	0.08709563314914703	0.4492091	No	
+row_35	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	7166	0.08685451000928879	0.45736206	No	
+row_36	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	7359	0.08279325813055038	0.45643505	No	
+row_37	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7659	0.07658681273460388	0.44966692	No	
+row_38	GLRA3	GLRA3	glycine receptor, alpha 3	7660	0.07657044380903244	0.45745546	No	
+row_39	LRRK2	LRRK2	leucine-rich repeat kinase 2	7829	0.07347384840250015	0.45674908	No	
+row_40	CHRNB3	CHRNB3	cholinergic receptor, nicotinic, beta 3	8131	0.06812189519405365	0.44902253	No	
+row_41	CHRNA10	CHRNA10	cholinergic receptor, nicotinic, alpha 10	8352	0.06414952129125595	0.4448358	No	
+row_42	CHRNA9	CHRNA9	cholinergic receptor, nicotinic, alpha 9	8596	0.059547651559114456	0.4390611	No	
+row_43	GABRA2	GABRA2	gamma-aminobutyric acid (GABA) A receptor, alpha 2	9021	0.05221696197986603	0.42372784	No	
+row_44	NPFF	NPFF	neuropeptide FF-amide peptide precursor	9027	0.05213452875614166	0.42878738	No	
+row_45	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	10498	0.025269003584980965	0.35978305	No	
+row_46	BMP4	BMP4	bone morphogenetic protein 4	10969	0.01687348447740078	0.33861497	No	
+row_47	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	11331	0.010265897959470749	0.322082	No	
+row_48	HCRT	HCRT	hypocretin (orexin) neuropeptide precursor	11671	0.004195800516754389	0.30600283	No	
+row_49	GRIN3B	GRIN3B	glutamate receptor, ionotropic, N-methyl-D-aspartate 3B	11958	-8.866185089573264E-4	0.2921676	No	
+row_50	MAPK8IP2	MAPK8IP2	mitogen-activated protein kinase 8 interacting protein 2	12028	-0.0022123008966445923	0.289033	No	
+row_51	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	12198	-0.005431591998785734	0.28135684	No	
+row_52	CHRNA5	CHRNA5	cholinergic receptor, nicotinic, alpha 5	12312	-0.007383372634649277	0.27660587	No	
+row_53	SMO	SMO	smoothened homolog (Drosophila)	12346	-0.008000816218554974	0.2758129	No	
+row_54	SLC17A7	SLC17A7	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7	12743	-0.015851112082600594	0.2581439	No	
+row_55	ADORA1	ADORA1	adenosine A1 receptor	13419	-0.027802014723420143	0.22810596	No	
+row_56	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	13866	-0.03683316335082054	0.2101367	No	
+row_57	RAB3GAP1	RAB3GAP1	RAB3 GTPase activating protein subunit 1 (catalytic)	14084	-0.041289590299129486	0.20377079	No	
+row_58	BMP2	BMP2	bone morphogenetic protein 2	14171	-0.04295925423502922	0.20395315	No	
+row_59	GRID2	GRID2	glutamate receptor, ionotropic, delta 2	14176	-0.04304655268788338	0.20813698	No	
+row_60	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	15481	-0.06920335441827774	0.1516841	No	
+row_61	CHRNA6	CHRNA6	cholinergic receptor, nicotinic, alpha 6	15595	-0.07158941775560379	0.15346402	No	
+row_62	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	16420	-0.0900273397564888	0.12250062	No	
+row_63	SLC29A1	SLC29A1	solute carrier family 29 (nucleoside transporters), member 1	17394	-0.11420890688896179	0.08674208	No	
+row_64	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	17970	-0.13099129498004913	0.07206932	No	
+row_65	P2RY11	P2RY11	purinergic receptor P2Y, G-protein coupled, 11	19013	-0.16926033794879913	0.038550843	No	
+row_66	TSPO	TSPO	translocator protein (18kDa)	19338	-0.18479840457439423	0.04157245	No	
+row_67	CDK5	CDK5	cyclin-dependent kinase 5	19558	-0.19730694591999054	0.050978873	No	

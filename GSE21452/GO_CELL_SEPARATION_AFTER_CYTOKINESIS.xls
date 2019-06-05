@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHMP4C	CHMP4C	chromatin modifying protein 4C	6144	0.1072811633348465	-0.24786584	No	
+row_1	CHMP7	CHMP7	CHMP family, member 7	9504	0.04325054958462715	-0.39062938	No	
+row_2	PDCD6IP	PDCD6IP	programmed cell death 6 interacting protein	10143	0.03187297657132149	-0.40660533	No	
+row_3	CHMP5	CHMP5	chromatin modifying protein 5	13240	-0.024419482797384262	-0.54546356	No	
+row_4	MITD1	MITD1	MIT, microtubule interacting and transport, domain containing 1	16782	-0.09869028627872467	-0.67096025	Yes	
+row_5	CEP55	CEP55	centrosomal protein 55kDa	16961	-0.10282357782125473	-0.63118684	Yes	
+row_6	KIF20A	KIF20A	kinesin family member 20A	17016	-0.10410651564598083	-0.5847873	Yes	
+row_7	CHMP1B	CHMP1B	chromatin modifying protein 1B	17518	-0.11771590262651443	-0.5536878	Yes	
+row_8	CHMP2B	CHMP2B	chromatin modifying protein 2B	17746	-0.12420578300952911	-0.5062256	Yes	
+row_9	VPS4A	VPS4A	vacuolar protein sorting 4 homolog A (S. cerevisiae)	18299	-0.14148269593715668	-0.4664115	Yes	
+row_10	CHMP6	CHMP6	chromatin modifying protein 6	18748	-0.15720094740390778	-0.41414523	Yes	
+row_11	CHMP4A	CHMP4A	chromatin modifying protein 4A	19205	-0.17859618365764618	-0.3521928	Yes	
+row_12	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	19210	-0.1786494255065918	-0.26826397	Yes	
+row_13	CHMP2A	CHMP2A	chromatin modifying protein 2A	20549	-0.3343799114227295	-0.17578976	Yes	
+row_14	CHMP4B	CHMP4B	chromatin modifying protein 4B	20590	-0.3789912760257721	7.284456E-4	Yes	

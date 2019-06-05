@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	350	0.3286881744861603	0.1219578	Yes	
+row_1	PDE10A	PDE10A	phosphodiesterase 10A	526	0.3051685690879822	0.24247137	Yes	
+row_2	PDE4C	PDE4C	phosphodiesterase 4C, cAMP-specific (phosphodiesterase E1 dunce homolog, Drosophila)	713	0.2882835566997528	0.35531244	Yes	
+row_3	PDE8B	PDE8B	phosphodiesterase 8B	924	0.27201375365257263	0.46010977	Yes	
+row_4	PDE2A	PDE2A	phosphodiesterase 2A, cGMP-stimulated	1834	0.22517141699790955	0.5111573	Yes	
+row_5	PDE4A	PDE4A	phosphodiesterase 4A, cAMP-specific (phosphodiesterase E2 dunce homolog, Drosophila)	2141	0.21235942840576172	0.58607304	Yes	
+row_6	PDE1A	PDE1A	phosphodiesterase 1A, calmodulin-dependent	2615	0.19600041210651398	0.64596254	Yes	
+row_7	PDE1B	PDE1B	phosphodiesterase 1B, calmodulin-dependent	4458	0.14449664950370789	0.61759305	No	
+row_8	PDE7A	PDE7A	phosphodiesterase 7A	8983	0.05288281291723251	0.42024207	No	
+row_9	PDE8A	PDE8A	phosphodiesterase 8A	10449	0.02591560408473015	0.3600505	No	
+row_10	PDE4D	PDE4D	phosphodiesterase 4D, cAMP-specific (phosphodiesterase E3 dunce homolog, Drosophila)	11839	0.0010966530535370111	0.29305747	No	
+row_11	PDE11A	PDE11A	phosphodiesterase 11A	12649	-0.013958852738142014	0.25966966	No	
+row_12	PDE3A	PDE3A	phosphodiesterase 3A, cGMP-inhibited	13430	-0.028031574562191963	0.23363961	No	
+row_13	PDE4B	PDE4B	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)	15529	-0.07026325166225433	0.16145478	No	
+row_14	PDE7B	PDE7B	phosphodiesterase 7B	19614	-0.2010890692472458	0.048127685	No	

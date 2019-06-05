@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	54	0.4111011326313019	0.09660658	Yes	
+row_1	CHRM2	CHRM2	cholinergic receptor, muscarinic 2	76	0.39936432242393494	0.19198367	Yes	
+row_2	CHRM4	CHRM4	cholinergic receptor, muscarinic 4	249	0.34327635169029236	0.26648515	Yes	
+row_3	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	354	0.3282577693462372	0.3406657	Yes	
+row_4	HRH3	HRH3	histamine receptor H3	606	0.2965725064277649	0.40005526	Yes	
+row_5	CHRNG	CHRNG	cholinergic receptor, nicotinic, gamma	1181	0.256365567445755	0.43404493	Yes	
+row_6	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	1889	0.22262611985206604	0.4534281	Yes	
+row_7	CHRND	CHRND	cholinergic receptor, nicotinic, delta	2521	0.19924061000347137	0.4708594	Yes	
+row_8	HRH4	HRH4	histamine receptor H4	3261	0.17548562586307526	0.47730902	Yes	
+row_9	HTR3C	HTR3C	5-hydroxytryptamine (serotonin) receptor 3, family member C	3455	0.16983823478221893	0.5089261	Yes	
+row_10	ANXA9	ANXA9	annexin A9	4013	0.15519973635673523	0.5193227	Yes	
+row_11	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	4171	0.15104636549949646	0.54815304	Yes	
+row_12	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	4334	0.14783799648284912	0.57596606	Yes	
+row_13	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	4399	0.14610172808170319	0.60812193	Yes	
+row_14	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	6803	0.09343387186527252	0.5139109	No	
+row_15	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	7151	0.08709563314914703	0.5180728	No	
+row_16	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7659	0.07658681273460388	0.5119235	No	
+row_17	CHRNB3	CHRNB3	cholinergic receptor, nicotinic, beta 3	8131	0.06812189519405365	0.5054803	No	
+row_18	CHRNA10	CHRNA10	cholinergic receptor, nicotinic, alpha 10	8352	0.06414952129125595	0.5102745	No	
+row_19	CHRNA9	CHRNA9	cholinergic receptor, nicotinic, alpha 9	8596	0.059547651559114456	0.5128404	No	
+row_20	HTR3B	HTR3B	5-hydroxytryptamine (serotonin) receptor 3B	8947	0.05335162952542305	0.5087115	No	
+row_21	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	9384	0.045344166457653046	0.49847093	No	
+row_22	CHRM5	CHRM5	cholinergic receptor, muscarinic 5	9420	0.04477027431130409	0.50757676	No	
+row_23	CHRNA5	CHRNA5	cholinergic receptor, nicotinic, alpha 5	12312	-0.007383372634649277	0.36888278	No	
+row_24	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	15481	-0.06920335441827774	0.23165102	No	
+row_25	CHRNA6	CHRNA6	cholinergic receptor, nicotinic, alpha 6	15595	-0.07158941775560379	0.24344032	No	

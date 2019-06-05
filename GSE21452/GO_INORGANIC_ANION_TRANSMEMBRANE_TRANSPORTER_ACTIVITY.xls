@@ -1,0 +1,108 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLCNKB	CLCNKB	chloride channel Kb	46	0.41585105657577515	0.026458403	Yes	
+row_1	SLC13A4	SLC13A4	solute carrier family 13 (sodium/sulfate symporters), member 4	69	0.4056702256202698	0.053384904	Yes	
+row_2	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	452	0.3122912645339966	0.056304473	Yes	
+row_3	GABRB2	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2	675	0.2913123369216919	0.06558132	Yes	
+row_4	CLCN5	CLCN5	chloride channel 5 (nephrolithiasis 2, X-linked, Dent disease)	682	0.2904900312423706	0.0853385	Yes	
+row_5	GABRD	GABRD	gamma-aminobutyric acid (GABA) A receptor, delta	787	0.2809010446071625	0.09965313	Yes	
+row_6	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	833	0.27814751863479614	0.11665589	Yes	
+row_7	GLRB	GLRB	glycine receptor, beta	834	0.2780296504497528	0.13584575	Yes	
+row_8	SLC4A10	SLC4A10	solute carrier family 4, sodium bicarbonate transporter-like, member 10	848	0.2770695090293884	0.15433517	Yes	
+row_9	SLC26A8	SLC26A8	solute carrier family 26, member 8	936	0.27136555314064026	0.16882095	Yes	
+row_10	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	996	0.2666391432285309	0.18434644	Yes	
+row_11	SLC26A1	SLC26A1	solute carrier family 26 (sulfate transporter), member 1	1157	0.2576073706150055	0.19432147	Yes	
+row_12	SLC12A3	SLC12A3	solute carrier family 12 (sodium/chloride transporters), member 3	1163	0.2570353150367737	0.21181837	Yes	
+row_13	GABRA6	GABRA6	gamma-aminobutyric acid (GABA) A receptor, alpha 6	1234	0.2538190484046936	0.22592239	Yes	
+row_14	SLC17A3	SLC17A3	solute carrier family 17 (sodium phosphate), member 3	1363	0.24718402326107025	0.23673904	Yes	
+row_15	SLC34A1	SLC34A1	solute carrier family 34 (sodium phosphate), member 1	1491	0.24048611521720886	0.2471422	Yes	
+row_16	FXYD1	FXYD1	FXYD domain containing ion transport regulator 1 (phospholemman)	1501	0.24006183445453644	0.26327243	Yes	
+row_17	SLC4A1	SLC4A1	solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)	1533	0.237984761595726	0.27818608	Yes	
+row_18	GABRG2	GABRG2	gamma-aminobutyric acid (GABA) A receptor, gamma 2	1563	0.23673713207244873	0.2931112	Yes	
+row_19	SLC12A1	SLC12A1	solute carrier family 12 (sodium/potassium/chloride transporters), member 1	1668	0.2322905957698822	0.30407068	Yes	
+row_20	GABRA4	GABRA4	gamma-aminobutyric acid (GABA) A receptor, alpha 4	1780	0.22782757878303528	0.31438065	Yes	
+row_21	SLC12A4	SLC12A4	solute carrier family 12 (potassium/chloride transporters), member 4	1883	0.22296500205993652	0.32479402	Yes	
+row_22	CLCA4	CLCA4	chloride channel, calcium activated, family member 4	2063	0.21554189920425415	0.33093882	Yes	
+row_23	SLC4A8	SLC4A8	solute carrier family 4, sodium bicarbonate cotransporter, member 8	2317	0.20637133717536926	0.33284068	Yes	
+row_24	SLC26A9	SLC26A9	solute carrier family 26, member 9	2350	0.20535904169082642	0.34545368	Yes	
+row_25	GABRR3	GABRR3	gamma-aminobutyric acid (GABA) receptor, rho 3	2389	0.20359551906585693	0.35765228	Yes	
+row_26	SLC4A4	SLC4A4	solute carrier family 4, sodium bicarbonate cotransporter, member 4	2531	0.19881030917167664	0.36449596	Yes	
+row_27	SLC34A3	SLC34A3	solute carrier family 34 (sodium phosphate), member 3	2625	0.19578875601291656	0.3734727	Yes	
+row_28	TTYH1	TTYH1	tweety homolog 1 (Drosophila)	2748	0.1918003261089325	0.3807594	Yes	
+row_29	AQP6	AQP6	aquaporin 6, kidney specific	2817	0.18977265059947968	0.39054045	Yes	
+row_30	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	2821	0.18968191742897034	0.4034861	Yes	
+row_31	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	2834	0.18890687823295593	0.41593924	Yes	
+row_32	SLC22A6	SLC22A6	solute carrier family 22 (organic anion transporter), member 6	2968	0.18414118885993958	0.4221607	Yes	
+row_33	SLC37A3	SLC37A3	solute carrier family 37 (glycerol-3-phosphate transporter), member 3	3302	0.17426300048828125	0.4179438	Yes	
+row_34	TTYH3	TTYH3	tweety homolog 3 (Drosophila)	3513	0.16811318695545197	0.41930273	Yes	
+row_35	SLC4A5	SLC4A5	solute carrier family 4, sodium bicarbonate cotransporter, member 5	3643	0.16461454331874847	0.42437157	Yes	
+row_36	ADAMTS8	ADAMTS8	ADAM metallopeptidase with thrombospondin type 1 motif, 8	3677	0.1636156588792801	0.43405464	Yes	
+row_37	CLCN1	CLCN1	chloride channel 1, skeletal muscle (Thomsen disease, autosomal dominant)	3920	0.15755216777324677	0.4331236	Yes	
+row_38	GLRA2	GLRA2	glycine receptor, alpha 2	3955	0.156680166721344	0.4422792	Yes	
+row_39	GABRG1	GABRG1	gamma-aminobutyric acid (GABA) A receptor, gamma 1	4009	0.1552072912454605	0.45040622	Yes	
+row_40	SLC22A12	SLC22A12	solute carrier family 22 (organic anion/cation transporter), member 12	4017	0.1551239788532257	0.46077156	Yes	
+row_41	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	4073	0.15389925241470337	0.46871075	Yes	
+row_42	SLC12A5	SLC12A5	solute carrier family 12, (potassium-chloride transporter) member 5	4253	0.1494884043931961	0.47029644	Yes	
+row_43	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	4545	0.14242078363895416	0.46593064	Yes	
+row_44	CLCN4	CLCN4	chloride channel 4	4716	0.1390482485294342	0.4672348	Yes	
+row_45	SLC37A4	SLC37A4	solute carrier family 37 (glycerol-6-phosphate transporter), member 4	4920	0.13409341871738434	0.46658713	Yes	
+row_46	SLC26A7	SLC26A7	solute carrier family 26, member 7	5102	0.12961331009864807	0.46670344	Yes	
+row_47	GABRA1	GABRA1	gamma-aminobutyric acid (GABA) A receptor, alpha 1	5206	0.12707476317882538	0.47044963	Yes	
+row_48	SLC26A2	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	5262	0.1260484755039215	0.47646654	Yes	
+row_49	SLC22A11	SLC22A11	solute carrier family 22 (organic anion/cation transporter), member 11	5512	0.1208784431219101	0.47266275	No	
+row_50	CLCN2	CLCN2	chloride channel 2	6032	0.10937291383743286	0.45489347	No	
+row_51	SLC5A5	SLC5A5	solute carrier family 5 (sodium iodide symporter), member 5	6180	0.10665779560804367	0.455084	No	
+row_52	NMUR2	NMUR2	neuromedin U receptor 2	6304	0.10366969555616379	0.45623907	No	
+row_53	SLC12A6	SLC12A6	solute carrier family 12 (potassium/chloride transporters), member 6	6947	0.09081128984689713	0.43118834	No	
+row_54	CLIC5	CLIC5	chloride intracellular channel 5	7063	0.08875025063753128	0.43170395	No	
+row_55	SLC26A11	SLC26A11	solute carrier family 26, member 11	7139	0.08728179335594177	0.4340695	No	
+row_56	SLC22A9	SLC22A9	solute carrier family 22 (organic anion/cation transporter), member 9	7510	0.07955078780651093	0.42151052	No	
+row_57	GABRE	GABRE	gamma-aminobutyric acid (GABA) A receptor, epsilon	7572	0.07823816686868668	0.42393482	No	
+row_58	GLRA3	GLRA3	glycine receptor, alpha 3	7660	0.07657044380903244	0.42497566	No	
+row_59	SLC13A1	SLC13A1	solute carrier family 13 (sodium/sulfate symporters), member 1	7760	0.07492712140083313	0.4253177	No	
+row_60	SLC26A3	SLC26A3	solute carrier family 26, member 3	7865	0.07284954935312271	0.42527243	No	
+row_61	SLC37A2	SLC37A2	solute carrier family 37 (glycerol-3-phosphate transporter), member 2	7943	0.07137696444988251	0.42644265	No	
+row_62	CLCN7	CLCN7	chloride channel 7	8027	0.06994309276342392	0.4272212	No	
+row_63	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	8260	0.06562496721744537	0.42043307	No	
+row_64	SLC17A2	SLC17A2	solute carrier family 17 (sodium phosphate), member 2	8370	0.06378500908613205	0.41951823	No	
+row_65	SLC26A10	SLC26A10	solute carrier family 26, member 10	8406	0.06317254155874252	0.42217106	No	
+row_66	GABRA2	GABRA2	gamma-aminobutyric acid (GABA) A receptor, alpha 2	9021	0.05221696197986603	0.39582247	No	
+row_67	SLC17A4	SLC17A4	solute carrier family 17 (sodium phosphate), member 4	9068	0.05135129392147064	0.39712274	No	
+row_68	SLC22A8	SLC22A8	solute carrier family 22 (organic anion transporter), member 8	9333	0.04610251635313034	0.3874261	No	
+row_69	GABRQ	GABRQ	gamma-aminobutyric acid (GABA) receptor, theta	9363	0.04571106657385826	0.3891664	No	
+row_70	SLC17A1	SLC17A1	solute carrier family 17 (sodium phosphate), member 1	9484	0.04359949007630348	0.38632175	No	
+row_71	SLC12A7	SLC12A7	solute carrier family 12 (potassium/chloride transporters), member 7	10082	0.03296205773949623	0.35947347	No	
+row_72	SLC4A7	SLC4A7	solute carrier family 4, sodium bicarbonate cotransporter, member 7	10146	0.03178851306438446	0.3585942	No	
+row_73	PCYOX1	PCYOX1	prenylcysteine oxidase 1	10572	0.023797674104571342	0.33950403	No	
+row_74	GABRP	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi	10689	0.021818997338414192	0.33535117	No	
+row_75	CLCC1	CLCC1	chloride channel CLIC-like 1	10694	0.021677223965525627	0.33665222	No	
+row_76	CLIC4	CLIC4	chloride intracellular channel 4	11540	0.006918373517692089	0.2959082	No	
+row_77	SLC4A3	SLC4A3	solute carrier family 4, anion exchanger, member 3	11775	0.002498002490028739	0.28466544	No	
+row_78	SLC37A1	SLC37A1	solute carrier family 37 (glycerol-3-phosphate transporter), member 1	11809	0.0017342660576105118	0.28317532	No	
+row_79	BSND	BSND	Bartter syndrome, infantile, with sensorineural deafness (Barttin)	11937	-5.905024008825421E-4	0.27702063	No	
+row_80	CLCA2	CLCA2	chloride channel, calcium activated, family member 2	11984	-0.0011580399004742503	0.27485657	No	
+row_81	ASNA1	ASNA1	arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)	12068	-0.003111693076789379	0.27102235	No	
+row_82	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	12198	-0.005431591998785734	0.26510426	No	
+row_83	SLC26A4	SLC26A4	solute carrier family 26, member 4	12566	-0.012177782133221626	0.24804147	No	
+row_84	SLC17A7	SLC17A7	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7	12743	-0.015851112082600594	0.24054973	No	
+row_85	TTYH2	TTYH2	tweety homolog 2 (Drosophila)	12883	-0.01833251491189003	0.23503424	No	
+row_86	SLC12A2	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	13210	-0.02385517954826355	0.22077753	No	
+row_87	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	13344	-0.02632940374314785	0.2161067	No	
+row_88	MFSD5	MFSD5	major facilitator superfamily domain containing 5	13867	-0.03689351677894592	0.19318846	No	
+row_89	CLIC3	CLIC3	chloride intracellular channel 3	14141	-0.042199429124593735	0.18278338	No	
+row_90	SLC4A2	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	14198	-0.04332545027136803	0.1830419	No	
+row_91	SLC26A6	SLC26A6	solute carrier family 26, member 6	14745	-0.05410703271627426	0.16014096	No	
+row_92	APOL1	APOL1	apolipoprotein L, 1	14992	-0.058855365961790085	0.15220264	No	
+row_93	SLC12A9	SLC12A9	solute carrier family 12 (potassium/chloride transporters), member 9	15051	-0.06016138568520546	0.15352562	No	
+row_94	GABRR1	GABRR1	gamma-aminobutyric acid (GABA) receptor, rho 1	15463	-0.06892137974500656	0.13823287	No	
+row_95	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	15562	-0.0709274560213089	0.13834763	No	
+row_96	CLIC2	CLIC2	chloride intracellular channel 2	16175	-0.08428990095853806	0.11431028	No	
+row_97	ANKH	ANKH	ankylosis, progressive homolog (mouse)	16297	-0.08718877285718918	0.1144254	No	
+row_98	SLC1A4	SLC1A4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	16425	-0.09019391238689423	0.114455245	No	
+row_99	CLCN3	CLCN3	chloride channel 3	16901	-0.10132503509521484	0.09827693	No	
+row_100	GABRG3	GABRG3	gamma-aminobutyric acid (GABA) A receptor, gamma 3	16980	-0.10327591001987457	0.10160006	No	
+row_101	SLC4A11	SLC4A11	solute carrier family 4, sodium bicarbonate transporter-like, member 11	18370	-0.14411859214305878	0.04378785	No	
+row_102	CLIC1	CLIC1	chloride intracellular channel 1	18387	-0.144748255610466	0.05299798	No	
+row_103	SLC4A9	SLC4A9	solute carrier family 4, sodium bicarbonate cotransporter, member 9	19235	-0.17971861362457275	0.02408323	No	
+row_104	CLIC6	CLIC6	chloride intracellular channel 6	19242	-0.17997758090496063	0.03621275	No	
+row_105	SLC20A2	SLC20A2	solute carrier family 20 (phosphate transporter), member 2	19620	-0.20136728882789612	0.031720158	No	
+row_106	CLCN6	CLCN6	chloride channel 6	20081	-0.23590368032455444	0.025562324	No	

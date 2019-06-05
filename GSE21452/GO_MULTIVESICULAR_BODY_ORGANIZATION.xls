@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHMP4C	CHMP4C	chromatin modifying protein 4C	6144	0.1072811633348465	-0.26801926	No	
+row_1	CHMP7	CHMP7	CHMP family, member 7	9504	0.04325054958462715	-0.4189306	No	
+row_2	PDCD6IP	PDCD6IP	programmed cell death 6 interacting protein	10143	0.03187297657132149	-0.44086325	No	
+row_3	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	10429	0.02626263163983822	-0.44723958	No	
+row_4	VPS37A	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	10839	0.019174885004758835	-0.4616577	No	
+row_5	VPS28	VPS28	vacuolar protein sorting 28 homolog (S. cerevisiae)	11012	0.015868112444877625	-0.46550062	No	
+row_6	SNF8	SNF8	SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)	12712	-0.015308139845728874	-0.5437011	No	
+row_7	CHMP5	CHMP5	chromatin modifying protein 5	13240	-0.024419482797384262	-0.5623608	No	
+row_8	VPS37B	VPS37B	vacuolar protein sorting 37 homolog B (S. cerevisiae)	13530	-0.030243175104260445	-0.567799	No	
+row_9	VPS37D	VPS37D	vacuolar protein sorting 37 homolog D (S. cerevisiae)	13923	-0.037996627390384674	-0.57603604	No	
+row_10	RAB27A	RAB27A	RAB27A, member RAS oncogene family	13934	-0.03823719918727875	-0.5656429	No	
+row_11	STAM2	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	14837	-0.05593069642782211	-0.5935588	No	
+row_12	CHMP1B	CHMP1B	chromatin modifying protein 1B	17518	-0.11771590262651443	-0.6902905	Yes	
+row_13	CHMP2B	CHMP2B	chromatin modifying protein 2B	17746	-0.12420578300952911	-0.6659823	Yes	
+row_14	VPS4A	VPS4A	vacuolar protein sorting 4 homolog A (S. cerevisiae)	18299	-0.14148269593715668	-0.6525507	Yes	
+row_15	CHMP6	CHMP6	chromatin modifying protein 6	18748	-0.15720094740390778	-0.6295935	Yes	
+row_16	RAB11A	RAB11A	RAB11A, member RAS oncogene family	19161	-0.17660199105739594	-0.5993672	Yes	
+row_17	CHMP4A	CHMP4A	chromatin modifying protein 4A	19205	-0.17859618365764618	-0.5506435	Yes	
+row_18	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	19210	-0.1786494255065918	-0.5000096	Yes	
+row_19	VPS25	VPS25	vacuolar protein sorting 25 homolog (S. cerevisiae)	19385	-0.18729916214942932	-0.45517513	Yes	
+row_20	VPS36	VPS36	vacuolar protein sorting 36 (yeast)	19432	-0.1900174617767334	-0.40334767	Yes	
+row_21	STAM	STAM	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	20141	-0.24172049760818481	-0.36897713	Yes	
+row_22	VPS37C	VPS37C	vacuolar protein sorting 37 homolog C (S. cerevisiae)	20468	-0.2984292507171631	-0.29991046	Yes	
+row_23	CHMP2A	CHMP2A	chromatin modifying protein 2A	20549	-0.3343799114227295	-0.20866194	Yes	
+row_24	TSG101	TSG101	tumor susceptibility gene 101	20579	-0.36362892389297485	-0.10661354	Yes	
+row_25	CHMP4B	CHMP4B	chromatin modifying protein 4B	20590	-0.3789912760257721	7.288939E-4	Yes	

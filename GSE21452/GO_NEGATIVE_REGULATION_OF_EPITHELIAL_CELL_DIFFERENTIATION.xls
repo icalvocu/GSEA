@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	REG3A	REG3A	regenerating islet-derived 3 alpha	71	0.40267428755760193	0.08134707	Yes	
+row_1	IL13	IL13	interleukin 13	88	0.3944573402404785	0.16363716	Yes	
+row_2	NODAL	NODAL	nodal homolog (mouse)	454	0.3120857775211334	0.21161684	Yes	
+row_3	OVOL2	OVOL2	ovo-like 2 (Drosophila)	898	0.27350324392318726	0.24768016	Yes	
+row_4	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	1146	0.25828054547309875	0.29006478	Yes	
+row_5	GSK3A	GSK3A	glycogen synthase kinase 3 alpha	1184	0.25624731183052063	0.3422288	Yes	
+row_6	GSK3B	GSK3B	glycogen synthase kinase 3 beta	1198	0.25560230016708374	0.3954236	Yes	
+row_7	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1382	0.24656404554843903	0.43845174	Yes	
+row_8	REG3G	REG3G	regenerating islet-derived 3 gamma	1546	0.2374887466430664	0.48054093	Yes	
+row_9	HOXA7	HOXA7	homeobox A7	1685	0.23124580085277557	0.5225306	Yes	
+row_10	XDH	XDH	xanthine dehydrogenase	2005	0.21826928853988647	0.5529896	Yes	
+row_11	FOXE3	FOXE3	forkhead box E3	2816	0.1897752285003662	0.55358195	Yes	
+row_12	GRHL2	GRHL2	grainyhead-like 2 (Drosophila)	3319	0.17378585040569305	0.56577814	Yes	
+row_13	OSR1	OSR1	odd-skipped related 1 (Drosophila)	3778	0.16125667095184326	0.5774746	Yes	
+row_14	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	4484	0.14413002133369446	0.5735584	No	
+row_15	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	6273	0.10441432148218155	0.5086367	No	
+row_16	GDF3	GDF3	growth differentiation factor 3	7123	0.08753317594528198	0.48580244	No	
+row_17	ACVRL1	ACVRL1	activin A receptor type II-like 1	9507	0.04316645860671997	0.3790613	No	
+row_18	DLL1	DLL1	delta-like 1 (Drosophila)	11018	0.01573033817112446	0.30897677	No	
+row_19	EZH2	EZH2	enhancer of zeste homolog 2 (Drosophila)	11035	0.015290752053260803	0.31141907	No	
+row_20	SMO	SMO	smoothened homolog (Drosophila)	12346	-0.008000816218554974	0.24942826	No	
+row_21	FRZB	FRZB	frizzled-related protein	12768	-0.01616571843624115	0.23236884	No	
+row_22	NKX6-3	NKX6-3	NK6 transcription factor related, locus 3 (Drosophila)	12907	-0.01890416257083416	0.229642	No	
+row_23	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	13070	-0.021518448367714882	0.22629912	No	
+row_24	HES1	HES1	hairy and enhancer of split 1, (Drosophila)	13375	-0.02686634100973606	0.21718019	No	
+row_25	YAP1	YAP1	Yes-associated protein 1, 65kDa	13894	-0.03736630082130432	0.19987044	No	
+row_26	IFNG	IFNG	interferon, gamma	14264	-0.04475890472531319	0.19135998	No	
+row_27	CCND1	CCND1	cyclin D1	15071	-0.06058265641331673	0.16494037	No	
+row_28	SOX9	SOX9	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	15098	-0.061145614832639694	0.17655309	No	
+row_29	ID1	ID1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	15540	-0.07041949778795242	0.16994669	No	
+row_30	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	16302	-0.08732632547616959	0.1513463	No	
+row_31	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	16717	-0.09695228189229965	0.15163977	No	
+row_32	NOTCH4	NOTCH4	Notch homolog 4 (Drosophila)	19172	-0.1771092563867569	0.069654234	No	

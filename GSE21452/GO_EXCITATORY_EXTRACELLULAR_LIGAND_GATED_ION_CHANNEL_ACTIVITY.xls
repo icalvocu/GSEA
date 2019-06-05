@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	54	0.4111011326313019	0.061271235	Yes	
+row_1	GRIN2C	GRIN2C	glutamate receptor, ionotropic, N-methyl D-aspartate 2C	100	0.3884885609149933	0.119465575	Yes	
+row_2	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	354	0.3282577693462372	0.15817994	Yes	
+row_3	GRIK3	GRIK3	glutamate receptor, ionotropic, kainate 3	590	0.2983263432979584	0.19311763	Yes	
+row_4	GLRB	GLRB	glycine receptor, beta	834	0.2780296504497528	0.22451141	Yes	
+row_5	GRIA1	GRIA1	glutamate receptor, ionotropic, AMPA 1	1022	0.2647280991077423	0.25656185	Yes	
+row_6	GRIK5	GRIK5	glutamate receptor, ionotropic, kainate 5	1025	0.2645207643508911	0.29757944	Yes	
+row_7	CHRNG	CHRNG	cholinergic receptor, nicotinic, gamma	1181	0.256365567445755	0.3298867	Yes	
+row_8	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	1889	0.22262611985206604	0.33009765	Yes	
+row_9	GRIN2D	GRIN2D	glutamate receptor, ionotropic, N-methyl D-aspartate 2D	1930	0.22080954909324646	0.3624726	Yes	
+row_10	GRIA4	GRIA4	glutamate receptor, ionotrophic, AMPA 4	1932	0.22079668939113617	0.39674273	Yes	
+row_11	GRIN2B	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	1956	0.21961261332035065	0.4297586	Yes	
+row_12	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	2118	0.21335390210151672	0.45508865	Yes	
+row_13	CHRND	CHRND	cholinergic receptor, nicotinic, delta	2521	0.19924061000347137	0.46650153	Yes	
+row_14	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	2834	0.18890687823295593	0.4806863	Yes	
+row_15	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	3445	0.1702037900686264	0.47746778	Yes	
+row_16	HTR3C	HTR3C	5-hydroxytryptamine (serotonin) receptor 3, family member C	3455	0.16983823478221893	0.50342816	Yes	
+row_17	GLRA2	GLRA2	glycine receptor, alpha 2	3955	0.156680166721344	0.50350726	Yes	
+row_18	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	4171	0.15104636549949646	0.51652586	Yes	
+row_19	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	4334	0.14783799648284912	0.531624	Yes	
+row_20	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4787	0.13732875883579254	0.5309816	No	
+row_21	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	5926	0.11169640719890594	0.49298447	No	
+row_22	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	5931	0.11148863285779953	0.5101188	No	
+row_23	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	6803	0.09343387186527252	0.48227134	No	
+row_24	GRIN2A	GRIN2A	glutamate receptor, ionotropic, N-methyl D-aspartate 2A	6828	0.09284583479166031	0.49553502	No	
+row_25	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	7151	0.08709563314914703	0.49340865	No	
+row_26	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	7359	0.08279325813055038	0.49620777	No	
+row_27	GRIK1	GRIK1	glutamate receptor, ionotropic, kainate 1	7383	0.08218291401863098	0.50786275	No	
+row_28	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7659	0.07658681273460388	0.5063893	No	
+row_29	GLRA3	GLRA3	glycine receptor, alpha 3	7660	0.07657044380903244	0.51829076	No	
+row_30	CHRNB3	CHRNB3	cholinergic receptor, nicotinic, beta 3	8131	0.06812189519405365	0.50601584	No	
+row_31	CHRNA10	CHRNA10	cholinergic receptor, nicotinic, alpha 10	8352	0.06414952129125595	0.5052847	No	
+row_32	CHRNA9	CHRNA9	cholinergic receptor, nicotinic, alpha 9	8596	0.059547651559114456	0.5027195	No	
+row_33	TRPV1	TRPV1	transient receptor potential cation channel, subfamily V, member 1	8660	0.05840856954455376	0.5087334	No	
+row_34	HTR3B	HTR3B	5-hydroxytryptamine (serotonin) receptor 3B	8947	0.05335162952542305	0.5031134	No	
+row_35	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	9523	0.042841002345085144	0.4818012	No	
+row_36	GRIA2	GRIA2	glutamate receptor, ionotropic, AMPA 2	10016	0.03427775576710701	0.46319562	No	
+row_37	GABRP	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi	10689	0.021818997338414192	0.43389738	No	
+row_38	P2RX5	P2RX5	purinergic receptor P2X, ligand-gated ion channel, 5	11847	9.826587047427893E-4	0.3777676	No	
+row_39	GRIN3B	GRIN3B	glutamate receptor, ionotropic, N-methyl-D-aspartate 3B	11958	-8.866185089573264E-4	0.37255442	No	
+row_40	GRIK4	GRIK4	glutamate receptor, ionotropic, kainate 4	12272	-0.006735109258443117	0.3583753	No	
+row_41	CHRNA5	CHRNA5	cholinergic receptor, nicotinic, alpha 5	12312	-0.007383372634649277	0.35762575	No	
+row_42	SLC17A7	SLC17A7	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7	12743	-0.015851112082600594	0.33917207	No	
+row_43	GRIN3A	GRIN3A	glutamate receptor, ionotropic, N-methyl-D-aspartate 3A	13305	-0.025610268115997314	0.31586275	No	
+row_44	P2RX2	P2RX2	purinergic receptor P2X, ligand-gated ion channel, 2	13599	-0.03154610097408295	0.30651295	No	
+row_45	GRID1	GRID1	glutamate receptor, ionotropic, delta 1	13790	-0.03555617481470108	0.3027969	No	
+row_46	GRID2	GRID2	glutamate receptor, ionotropic, delta 2	14176	-0.04304655268788338	0.29075927	No	
+row_47	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	15481	-0.06920335441827774	0.23808229	No	
+row_48	CHRNA6	CHRNA6	cholinergic receptor, nicotinic, alpha 6	15595	-0.07158941775560379	0.24371262	No	

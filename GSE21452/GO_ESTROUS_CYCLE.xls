@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OPRM1	OPRM1	opioid receptor, mu 1	56	0.4101921319961548	0.1430995	Yes	
+row_1	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	541	0.30303964018821716	0.22731742	Yes	
+row_2	MMP7	MMP7	matrix metallopeptidase 7 (matrilysin, uterine)	817	0.2787323296070099	0.31304634	Yes	
+row_3	GNRH1	GNRH1	gonadotropin-releasing hormone 1 (luteinizing-releasing hormone)	965	0.26919323205947876	0.40160173	Yes	
+row_4	OPRK1	OPRK1	opioid receptor, kappa 1	1466	0.24202264845371246	0.46335146	Yes	
+row_5	HAS1	HAS1	hyaluronan synthase 1	1974	0.21923987567424774	0.5166621	Yes	
+row_6	ETS1	ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	2475	0.2008439600467682	0.56377316	Yes	
+row_7	HAS2	HAS2	hyaluronan synthase 2	3096	0.18028876185417175	0.59774816	Yes	
+row_8	ESR2	ESR2	estrogen receptor 2 (ER beta)	7248	0.08506868034601212	0.4263572	No	
+row_9	OPRL1	OPRL1	opiate receptor-like 1	8476	0.06201351433992386	0.38880172	No	
+row_10	ADNP	ADNP	activity-dependent neuroprotector	9175	0.049138180911540985	0.37236503	No	
+row_11	OXTR	OXTR	oxytocin receptor	10013	0.03432577848434448	0.3439108	No	
+row_12	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	11331	0.010265897959470749	0.28358784	No	
+row_13	TRPM2	TRPM2	transient receptor potential cation channel, subfamily M, member 2	11903	-2.932875395345036E-5	0.25586233	No	
+row_14	MMP13	MMP13	matrix metallopeptidase 13 (collagenase 3)	12973	-0.019980914890766144	0.21103938	No	
+row_15	NCOA1	NCOA1	nuclear receptor coactivator 1	13369	-0.026727551594376564	0.20135392	No	
+row_16	ANXA1	ANXA1	annexin A1	16508	-0.09225600957870483	0.08172382	No	
+row_17	CLU	CLU	clusterin	18555	-0.15014776587486267	0.03571691	No	
+row_18	WNT5A	WNT5A	wingless-type MMTV integration site family, member 5A	19227	-0.17950321733951569	0.06693532	No	
