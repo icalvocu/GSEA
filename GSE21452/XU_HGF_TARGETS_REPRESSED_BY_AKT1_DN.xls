@@ -1,0 +1,83 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	REG3A	REG3A	regenerating islet-derived 3 alpha	71	0.40267428755760193	0.027777975	Yes	
+row_1	P2RY4	P2RY4	pyrimidinergic receptor P2Y, G-protein coupled, 4	162	0.3648254871368408	0.051694095	Yes	
+row_2	CDH10	CDH10	cadherin 10, type 2 (T2-cadherin)	187	0.35674670338630676	0.07819925	Yes	
+row_3	DNAH3	DNAH3	dynein, axonemal, heavy chain 3	311	0.3339215815067291	0.09811014	Yes	
+row_4	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	335	0.33118417859077454	0.122681014	Yes	
+row_5	PSG1	PSG1	pregnancy specific beta-1-glycoprotein 1	346	0.32885441184043884	0.14770456	Yes	
+row_6	WNT6	WNT6	wingless-type MMTV integration site family, member 6	410	0.3187674582004547	0.16936328	Yes	
+row_7	CYLC1	CYLC1	cylicin, basic protein of sperm head cytoskeleton 1	540	0.3032687306404114	0.18660393	Yes	
+row_8	CIDEC	CIDEC	cell death-inducing DFFA-like effector c	579	0.29930946230888367	0.20797129	Yes	
+row_9	RPL38	RPL38	ribosomal protein L38	732	0.2860884368419647	0.22275855	Yes	
+row_10	MGAT5	MGAT5	mannosyl (alpha-1,6-)-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase	846	0.27708399295806885	0.2387475	Yes	
+row_11	TBXA2R	TBXA2R	thromboxane A2 receptor	895	0.2738231420516968	0.25765052	Yes	
+row_12	PSG4	PSG4	pregnancy specific beta-1-glycoprotein 4	918	0.27246978878974915	0.27771538	Yes	
+row_13	DRD2	DRD2	dopamine receptor D2	1044	0.26377198100090027	0.292087	Yes	
+row_14	MPP3	MPP3	membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3)	1147	0.25812578201293945	0.30714124	Yes	
+row_15	ADAMTS9	ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif, 9	1174	0.25660157203674316	0.3257802	Yes	
+row_16	MLPH	MLPH	melanophilin	1179	0.2564564347267151	0.34547985	Yes	
+row_17	GSTA1	GSTA1	glutathione S-transferase A1	1201	0.25536268949508667	0.36426634	Yes	
+row_18	ADAM21	ADAM21	ADAM metallopeptidase domain 21	1330	0.24891413748264313	0.37733918	Yes	
+row_19	RFPL3	RFPL3	ret finger protein-like 3	1613	0.23462194204330444	0.3817999	Yes	
+row_20	CYLC2	CYLC2	cylicin, basic protein of sperm head cytoskeleton 2	1649	0.23293191194534302	0.3981642	Yes	
+row_21	GRM6	GRM6	glutamate receptor, metabotropic 6	1847	0.22467397153377533	0.4059947	Yes	
+row_22	SLC22A14	SLC22A14	solute carrier family 22 (organic cation transporter), member 14	1975	0.21918083727359772	0.4168097	Yes	
+row_23	CYP2C9	CYP2C9	cytochrome P450, family 2, subfamily C, polypeptide 9	2150	0.21222926676273346	0.42479545	Yes	
+row_24	KIF5A	KIF5A	kinesin family member 5A	2612	0.196101576089859	0.41754648	Yes	
+row_25	SIGLEC1	SIGLEC1	sialic acid binding Ig-like lectin 1, sialoadhesin	2634	0.1955564022064209	0.43169352	Yes	
+row_26	ACRV1	ACRV1	acrosomal vesicle protein 1	2658	0.19493407011032104	0.44569483	Yes	
+row_27	PGLYRP4	PGLYRP4	peptidoglycan recognition protein 4	2668	0.19462628662586212	0.4603544	Yes	
+row_28	GPX3	GPX3	glutathione peroxidase 3 (plasma)	2745	0.19184401631355286	0.47153366	Yes	
+row_29	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	2821	0.18968191742897034	0.48259392	Yes	
+row_30	MYL4	MYL4	myosin, light chain 4, alkali; atrial, embryonic	2974	0.18381772935390472	0.48944756	Yes	
+row_31	LGALS14	LGALS14	lectin, galactoside-binding, soluble, 14	3081	0.1807941496372223	0.4983079	Yes	
+row_32	TRDV2	TRDV2	T cell receptor delta variable 2	3607	0.16585364937782288	0.48559415	Yes	
+row_33	NTS	NTS	neurotensin	3706	0.1628730595111847	0.4934541	Yes	
+row_34	CYP1A2	CYP1A2	cytochrome P450, family 1, subfamily A, polypeptide 2	3876	0.15864673256874084	0.4975268	Yes	
+row_35	LY6G5C	LY6G5C	lymphocyte antigen 6 complex, locus G5C	3979	0.15597696602344513	0.5046569	Yes	
+row_36	PPP1R14D	PPP1R14D	protein phosphatase 1, regulatory (inhibitor) subunit 14D	4074	0.15381395816802979	0.51200897	Yes	
+row_37	CLDN10	CLDN10	claudin 10	4478	0.14421908557415009	0.50356114	Yes	
+row_38	DMWD	DMWD	dystrophia myotonica-containing WD repeat motif	4494	0.14381952583789825	0.51398706	Yes	
+row_39	GGT1	GGT1	gamma-glutamyltransferase 1	4553	0.14226308465003967	0.5221971	Yes	
+row_40	KLRG1	KLRG1	killer cell lectin-like receptor subfamily G, member 1	4931	0.13374899327754974	0.5142039	No	
+row_41	ZNF576	ZNF576	zinc finger protein 576	5129	0.12909063696861267	0.5146196	No	
+row_42	CD80	CD80	CD80 molecule	6031	0.10938947647809982	0.4792056	No	
+row_43	SLC5A5	SLC5A5	solute carrier family 5 (sodium iodide symporter), member 5	6180	0.10665779560804367	0.48026848	No	
+row_44	UBE2D4	UBE2D4	ubiquitin-conjugating enzyme E2D 4 (putative)	6323	0.1033749058842659	0.48136902	No	
+row_45	ATN1	ATN1	atrophin 1	7520	0.07939000427722931	0.42925444	No	
+row_46	FMO4	FMO4	flavin containing monooxygenase 4	7941	0.07142504304647446	0.41433138	No	
+row_47	CYP2A6	CYP2A6	cytochrome P450, family 2, subfamily A, polypeptide 6	8321	0.0646958276629448	0.40088394	No	
+row_48	PDGFD	PDGFD	platelet derived growth factor D	9270	0.04726838320493698	0.35836095	No	
+row_49	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	9857	0.03708118200302124	0.33268556	No	
+row_50	STXBP6	STXBP6	syntaxin binding protein 6 (amisyn)	10040	0.03381666913628578	0.32644123	No	
+row_51	NEK1	NEK1	NIMA (never in mitosis gene a)-related kinase 1	10328	0.027950957417488098	0.3146259	No	
+row_52	TTK	TTK	TTK protein kinase	10487	0.025448597967624664	0.30890173	No	
+row_53	CD53	CD53	CD53 molecule	10775	0.02038586139678955	0.29649955	No	
+row_54	RARB	RARB	retinoic acid receptor, beta	11463	0.00833541713654995	0.26367316	No	
+row_55	HPS1	HPS1	Hermansky-Pudlak syndrome 1	11989	-0.0012294671032577753	0.23818871	No	
+row_56	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	12483	-0.010611184872686863	0.21499121	No	
+row_57	GNPTAB	GNPTAB	N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits	12522	-0.011404735967516899	0.21402444	No	
+row_58	FCER1G	FCER1G	Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide	12580	-0.012399446219205856	0.21220909	No	
+row_59	ITK	ITK	IL2-inducible T-cell kinase	13871	-0.03694846108555794	0.15222211	No	
+row_60	NIPSNAP3B	NIPSNAP3B	nipsnap homolog 3B (C. elegans)	13968	-0.03878051042556763	0.15055305	No	
+row_61	SMARCA1	SMARCA1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	14045	-0.04038219526410103	0.1499827	No	
+row_62	MAP2K5	MAP2K5	mitogen-activated protein kinase kinase 5	14284	-0.04520626366138458	0.14189339	No	
+row_63	DLEU2	DLEU2	deleted in lymphocytic leukemia, 2	14586	-0.05130889266729355	0.1312079	No	
+row_64	WBP4	WBP4	WW domain binding protein 4 (formin binding protein 21)	14768	-0.054486751556396484	0.12661575	No	
+row_65	TCTA	TCTA	T-cell leukemia translocation altered gene	14872	-0.05654800683259964	0.12598392	No	
+row_66	LYST	LYST	lysosomal trafficking regulator	14955	-0.05807023495435715	0.1264934	No	
+row_67	MCC	MCC	mutated in colorectal cancers	15770	-0.0751597061753273	0.092663	No	
+row_68	FMOD	FMOD	fibromodulin	15954	-0.07879593223333359	0.08985917	No	
+row_69	SLAMF1	SLAMF1	signaling lymphocytic activation molecule family member 1	16003	-0.07996590435504913	0.09372378	No	
+row_70	BRCA1	BRCA1	breast cancer 1, early onset	16014	-0.08035148680210114	0.09946979	No	
+row_71	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	16072	-0.08162908256053925	0.10302491	No	
+row_72	GTDC1	GTDC1	glycosyltransferase-like domain containing 1	16905	-0.10149003565311432	0.07036006	No	
+row_73	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	17313	-0.11213395744562149	0.059228376	No	
+row_74	PRRX1	PRRX1	paired related homeobox 1	17505	-0.11733916401863098	0.059024747	No	
+row_75	MTAP	MTAP	methylthioadenosine phosphorylase	17618	-0.1207706481218338	0.06293647	No	
+row_76	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	17636	-0.12123236060142517	0.07151274	No	
+row_77	N4BP1	N4BP1	-	18975	-0.1672440767288208	0.019294675	No	
+row_78	RANBP2	RANBP2	RAN binding protein 2	19139	-0.17522244155406952	0.024945583	No	
+row_79	ATP6V1D	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	19160	-0.1764851063489914	0.037661895	No	
+row_80	PRDX3	PRDX3	peroxiredoxin 3	19647	-0.20311297476291656	0.02973873	No	
+row_81	MMP9	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)	19836	-0.21771927177906036	0.037468232	No	

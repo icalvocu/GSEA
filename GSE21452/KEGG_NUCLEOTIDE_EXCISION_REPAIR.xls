@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	4925	0.13391350209712982	-0.21542011	No	
+row_1	LIG1	LIG1	ligase I, DNA, ATP-dependent	7973	0.07078344374895096	-0.35086775	No	
+row_2	CUL4A	CUL4A	cullin 4A	8540	0.06055549532175064	-0.36749652	No	
+row_3	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	10175	0.031125560402870178	-0.44136208	No	
+row_4	ERCC8	ERCC8	excision repair cross-complementing rodent repair deficiency, complementation group 8	10510	0.025059135630726814	-0.45309594	No	
+row_5	RAD23A	RAD23A	RAD23 homolog A (S. cerevisiae)	10588	0.02350686863064766	-0.45261034	No	
+row_6	RPA4	RPA4	replication protein A4, 34kDa	11048	0.015028799884021282	-0.47222847	No	
+row_7	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	11917	-2.2302145953290164E-4	-0.51440215	No	
+row_8	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	13116	-0.022340886294841766	-0.5686444	No	
+row_9	MNAT1	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	13135	-0.022846940904855728	-0.56540823	No	
+row_10	POLE2	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	13328	-0.02591082639992237	-0.5700829	No	
+row_11	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	13843	-0.03652379661798477	-0.58850753	No	
+row_12	POLE	POLE	polymerase (DNA directed), epsilon	14043	-0.04033379629254341	-0.590927	No	
+row_13	CUL4B	CUL4B	cullin 4B	14377	-0.04685613512992859	-0.5986896	No	
+row_14	XPC	XPC	xeroderma pigmentosum, complementation group C	15233	-0.06393873691558838	-0.62876457	No	
+row_15	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	16103	-0.0824761688709259	-0.65618443	Yes	
+row_16	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	16248	-0.08605798333883286	-0.6477004	Yes	
+row_17	PCNA	PCNA	proliferating cell nuclear antigen	16266	-0.08643805235624313	-0.6329716	Yes	
+row_18	GTF2H3	GTF2H3	general transcription factor IIH, polypeptide 3, 34kDa	16617	-0.09494712203741074	-0.6329064	Yes	
+row_19	RPA2	RPA2	replication protein A2, 32kDa	17030	-0.10444801300764084	-0.63414663	Yes	
+row_20	ERCC5	ERCC5	me))	17093	-0.10586239397525787	-0.61811066	Yes	
+row_21	RPA1	RPA1	replication protein A1, 70kDa	17319	-0.1122601106762886	-0.60885054	Yes	
+row_22	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	17467	-0.1160830557346344	-0.5951091	Yes	
+row_23	GTF2H2	GTF2H2	general transcription factor IIH, polypeptide 2, 44kDa	17517	-0.11770182847976685	-0.5763102	Yes	
+row_24	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	17823	-0.12636496126651764	-0.56840247	Yes	
+row_25	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	17848	-0.12722937762737274	-0.5466732	Yes	
+row_26	POLD4	POLD4	polymerase (DNA-directed), delta 4	18020	-0.13252083957195282	-0.53114074	Yes	
+row_27	GTF2H4	GTF2H4	general transcription factor IIH, polypeptide 4, 52kDa	18134	-0.13614410161972046	-0.5121355	Yes	
+row_28	RAD23B	RAD23B	RAD23 homolog B (S. cerevisiae)	18144	-0.13627886772155762	-0.4880481	Yes	
+row_29	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	18428	-0.14605571329593658	-0.47552684	Yes	
+row_30	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	18577	-0.15099161863327026	-0.45555177	Yes	
+row_31	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	18819	-0.16003336012363434	-0.43847242	Yes	
+row_32	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	18870	-0.16189904510974884	-0.41176835	Yes	
+row_33	DDB2	DDB2	damage-specific DNA binding protein 2, 48kDa	19048	-0.1704382300376892	-0.389704	Yes	
+row_34	RFC3	RFC3	replication factor C (activator 1) 3, 38kDa	19294	-0.1822068840265274	-0.3688288	Yes	
+row_35	RBX1	RBX1	ring-box 1	19597	-0.20022739470005035	-0.34748268	Yes	
+row_36	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	19771	-0.2126164585351944	-0.3176333	Yes	
+row_37	GTF2H5	GTF2H5	general transcription factor IIH, polypeptide 5	19989	-0.22865675389766693	-0.28703713	Yes	
+row_38	RPA3	RPA3	replication protein A3, 14kDa	20016	-0.23062777519226074	-0.24679728	Yes	
+row_39	GTF2H1	GTF2H1	general transcription factor IIH, polypeptide 1, 62kDa	20293	-0.2601676285266876	-0.21339972	Yes	
+row_40	CDK7	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	20447	-0.2900436520576477	-0.16864368	Yes	
+row_41	XPA	XPA	xeroderma pigmentosum, complementation group A	20453	-0.29294899106025696	-0.11616705	Yes	
+row_42	CETN2	CETN2	centrin, EF-hand protein, 2	20552	-0.3361857831478119	-0.06043233	Yes	
+row_43	CCNH	CCNH	cyclin H	20565	-0.3498570919036865	0.0019451845	Yes	

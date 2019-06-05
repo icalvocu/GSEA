@@ -1,0 +1,48 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RBM15B	RBM15B	RNA binding motif protein 15B	387	0.32212892174720764	0.03467125	No	
+row_1	FCHO1	FCHO1	FCH domain only 1	2650	0.1951729655265808	-0.04294168	No	
+row_2	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	5078	0.13019680976867676	-0.13937071	No	
+row_3	SOX2	SOX2	SRY (sex determining region Y)-box 2	5804	0.11424591392278671	-0.15566255	No	
+row_4	UBE2J1	UBE2J1	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	7205	0.08591146022081375	-0.20949215	No	
+row_5	PIK3C2B	PIK3C2B	phosphoinositide-3-kinase, class 2, beta polypeptide	7350	0.08310647308826447	-0.2026951	No	
+row_6	DDR1	DDR1	discoidin domain receptor family, member 1	7353	0.08296003937721252	-0.18901542	No	
+row_7	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	7627	0.07721734791994095	-0.18947099	No	
+row_8	TIMM22	TIMM22	translocase of inner mitochondrial membrane 22 homolog (yeast)	7828	0.07357413321733475	-0.18698083	No	
+row_9	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	8373	0.0637151449918747	-0.20286025	No	
+row_10	ARL4C	ARL4C	ADP-ribosylation factor-like 4C	8434	0.06262964755296707	-0.19537793	No	
+row_11	ECD	ECD	ecdysoneless homolog (Drosophila)	8805	0.05600602552294731	-0.20407414	No	
+row_12	PSRC1	PSRC1	proline/serine-rich coiled-coil 1	8994	0.05272701755166054	-0.2044623	No	
+row_13	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9085	0.05111484229564667	-0.20035145	No	
+row_14	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	9145	0.0496610626578331	-0.19497415	No	
+row_15	EDN1	EDN1	endothelin 1	9371	0.04562249779701233	-0.19834185	No	
+row_16	TP53BP1	TP53BP1	tumor protein p53 binding protein, 1	9989	0.034694887697696686	-0.22259134	No	
+row_17	PTK2	PTK2	PTK2 protein tyrosine kinase 2	10229	0.02995777688920498	-0.22924142	No	
+row_18	UGDH	UGDH	UDP-glucose dehydrogenase	10652	0.022434450685977936	-0.24604207	No	
+row_19	CDK4	CDK4	cyclin-dependent kinase 4	11645	0.004689115099608898	-0.29351473	No	
+row_20	DUSP3	DUSP3	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related)	11854	7.840920588932931E-4	-0.30350175	No	
+row_21	LBR	LBR	lamin B receptor	13038	-0.020980553701519966	-0.35755926	No	
+row_22	FSD1	FSD1	fibronectin type III and SPRY domain containing 1	13360	-0.026499615982174873	-0.36877215	No	
+row_23	FKBP14	FKBP14	FK506 binding protein 14, 22 kDa	13365	-0.026633771136403084	-0.3645437	No	
+row_24	MTFR1	MTFR1	mitochondrial fission regulator 1	14614	-0.051810674369335175	-0.41664296	No	
+row_25	MYLK	MYLK	myosin, light chain kinase	14696	-0.05331723392009735	-0.4117286	No	
+row_26	UBQLN2	UBQLN2	ubiquilin 2	15518	-0.07005757093429565	-0.44002816	No	
+row_27	CNDP2	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	15626	-0.07227439433336258	-0.43323028	No	
+row_28	BAMBI	BAMBI	BMP and activin membrane-bound inhibitor homolog (Xenopus laevis)	15926	-0.07825734466314316	-0.4347778	No	
+row_29	SCP2	SCP2	sterol carrier protein 2	16996	-0.1036888062953949	-0.46955514	No	
+row_30	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	18133	-0.13610409200191498	-0.5022083	No	
+row_31	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	18722	-0.15626637637615204	-0.50485814	Yes	
+row_32	CHMP6	CHMP6	chromatin modifying protein 6	18748	-0.15720094740390778	-0.47996822	Yes	
+row_33	MAP3K4	MAP3K4	mitogen-activated protein kinase kinase kinase 4	18757	-0.15755188465118408	-0.4541931	Yes	
+row_34	APOE	APOE	apolipoprotein E	18990	-0.16809892654418945	-0.43756193	Yes	
+row_35	TM9SF2	TM9SF2	transmembrane 9 superfamily member 2	18998	-0.16852344572544098	-0.40991616	Yes	
+row_36	KIAA0907	KIAA0907	KIAA0907	19222	-0.17920123040676117	-0.3910035	Yes	
+row_37	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	19580	-0.19914193451404572	-0.37529716	Yes	
+row_38	CEBPA	CEBPA	CCAAT/enhancer binding protein (C/EBP), alpha	19706	-0.2068684846162796	-0.34702313	Yes	
+row_39	RNMT	RNMT	RNA (guanine-7-) methyltransferase	19741	-0.20942434668540955	-0.31389832	Yes	
+row_40	TMCO1	TMCO1	transmembrane and coiled-coil domains 1	19786	-0.21409624814987183	-0.2804841	Yes	
+row_41	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	19915	-0.2236316204071045	-0.24957216	Yes	
+row_42	MYCBP	MYCBP	c-myc binding protein	19917	-0.22373108565807343	-0.21246634	Yes	
+row_43	COPB2	COPB2	coatomer protein complex, subunit beta 2 (beta prime)	19996	-0.22927603125572205	-0.17818502	Yes	
+row_44	TEX10	TEX10	testis expressed sequence 10	20586	-0.37577834725379944	-0.14442973	Yes	
+row_45	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	20603	-0.4153176248073578	-0.07623725	Yes	
+row_46	OXSR1	OXSR1	oxidative-stress responsive 1	20605	-0.45936787128448486	1.5268597E-7	Yes	

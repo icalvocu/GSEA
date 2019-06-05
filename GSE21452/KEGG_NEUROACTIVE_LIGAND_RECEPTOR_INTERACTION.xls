@@ -1,0 +1,253 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	52	0.4129410982131958	0.009959198	Yes	
+row_1	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	54	0.4111011326313019	0.022368286	Yes	
+row_2	OPRM1	OPRM1	opioid receptor, mu 1	56	0.4101921319961548	0.034749825	Yes	
+row_3	CHRM2	CHRM2	cholinergic receptor, muscarinic 2	76	0.39936432242393494	0.04591889	Yes	
+row_4	GRIN2C	GRIN2C	glutamate receptor, ionotropic, N-methyl D-aspartate 2C	100	0.3884885609149933	0.056561843	Yes	
+row_5	ADORA3	ADORA3	adenosine A3 receptor	116	0.3815101385116577	0.06738637	Yes	
+row_6	P2RY4	P2RY4	pyrimidinergic receptor P2Y, G-protein coupled, 4	162	0.3648254871368408	0.07623135	Yes	
+row_7	GRM5	GRM5	glutamate receptor, metabotropic 5	239	0.34568148851394653	0.08297315	Yes	
+row_8	CHRM4	CHRM4	cholinergic receptor, muscarinic 4	249	0.34327635169029236	0.0929338	Yes	
+row_9	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	354	0.3282577693462372	0.09777193	Yes	
+row_10	TAAR9	TAAR9	trace amine associated receptor 9	481	0.3097098469734192	0.1009671	Yes	
+row_11	HTR2C	HTR2C	5-hydroxytryptamine (serotonin) receptor 2C	511	0.30616578459739685	0.10882053	Yes	
+row_12	GHRHR	GHRHR	growth hormone releasing hormone receptor	516	0.30580416321754456	0.11789125	Yes	
+row_13	GRIK3	GRIK3	glutamate receptor, ionotropic, kainate 3	590	0.2983263432979584	0.12334536	Yes	
+row_14	HRH3	HRH3	histamine receptor H3	606	0.2965725064277649	0.1315959	Yes	
+row_15	GABRB2	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2	675	0.2913123369216919	0.1370831	Yes	
+row_16	GRM7	GRM7	glutamate receptor, metabotropic 7	751	0.28424111008644104	0.1420121	Yes	
+row_17	GABRD	GABRD	gamma-aminobutyric acid (GABA) A receptor, delta	787	0.2809010446071625	0.14880511	Yes	
+row_18	GLRB	GLRB	glycine receptor, beta	834	0.2780296504497528	0.15497068	Yes	
+row_19	HCRTR1	HCRTR1	hypocretin (orexin) receptor 1	876	0.2749490737915039	0.16128851	Yes	
+row_20	TBXA2R	TBXA2R	thromboxane A2 receptor	895	0.2738231420516968	0.16870224	Yes	
+row_21	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	996	0.2666391432285309	0.17186958	Yes	
+row_22	GRIA1	GRIA1	glutamate receptor, ionotropic, AMPA 1	1022	0.2647280991077423	0.17866378	Yes	
+row_23	GRIK5	GRIK5	glutamate receptor, ionotropic, kainate 5	1025	0.2645207643508911	0.18658169	Yes	
+row_24	DRD2	DRD2	dopamine receptor D2	1044	0.26377198100090027	0.19369082	Yes	
+row_25	CHRNG	CHRNG	cholinergic receptor, nicotinic, gamma	1181	0.256365567445755	0.19477811	Yes	
+row_26	ADCYAP1R1	ADCYAP1R1	adenylate cyclase activating polypeptide 1 (pituitary) receptor type I	1229	0.2539907693862915	0.20016605	Yes	
+row_27	GABRA6	GABRA6	gamma-aminobutyric acid (GABA) A receptor, alpha 6	1234	0.2538190484046936	0.20766139	Yes	
+row_28	GRPR	GRPR	gastrin-releasing peptide receptor	1285	0.2511339485645294	0.21281536	Yes	
+row_29	BDKRB1	BDKRB1	bradykinin receptor B1	1286	0.25112074613571167	0.22042546	Yes	
+row_30	CYSLTR2	CYSLTR2	cysteinyl leukotriene receptor 2	1324	0.24917460978031158	0.22615875	Yes	
+row_31	GPR35	GPR35	G protein-coupled receptor 35	1333	0.24860964715480804	0.2332997	Yes	
+row_32	NTSR2	NTSR2	neurotensin receptor 2	1406	0.24524283409118652	0.23719427	Yes	
+row_33	OPRK1	OPRK1	opioid receptor, kappa 1	1466	0.24202264845371246	0.24162996	Yes	
+row_34	MC4R	MC4R	melanocortin 4 receptor	1504	0.23991359770298004	0.24708259	Yes	
+row_35	GABRG2	GABRG2	gamma-aminobutyric acid (GABA) A receptor, gamma 2	1563	0.23673713207244873	0.25140724	Yes	
+row_36	CRHR2	CRHR2	corticotropin releasing hormone receptor 2	1630	0.23393607139587402	0.25525394	Yes	
+row_37	GABRA4	GABRA4	gamma-aminobutyric acid (GABA) A receptor, alpha 4	1780	0.22782757878303528	0.25483772	Yes	
+row_38	GRM6	GRM6	glutamate receptor, metabotropic 6	1847	0.22467397153377533	0.25840375	Yes	
+row_39	MC3R	MC3R	melanocortin 3 receptor	1882	0.2230747789144516	0.26349348	Yes	
+row_40	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	1889	0.22262611985206604	0.2699453	Yes	
+row_41	TSHB	TSHB	thyroid stimulating hormone, beta	1917	0.22128620743751526	0.27532473	Yes	
+row_42	GRIN2D	GRIN2D	glutamate receptor, ionotropic, N-methyl D-aspartate 2D	1930	0.22080954909324646	0.2814267	Yes	
+row_43	GRIA4	GRIA4	glutamate receptor, ionotrophic, AMPA 4	1932	0.22079668939113617	0.28806868	Yes	
+row_44	GRIN2B	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	1956	0.21961261332035065	0.29359394	Yes	
+row_45	GABBR2	GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	1987	0.21878927946090698	0.29875034	Yes	
+row_46	DRD5	DRD5	dopamine receptor D5	2038	0.21679367125034332	0.30286366	Yes	
+row_47	F2R	F2R	coagulation factor II (thrombin) receptor	2049	0.2162042260169983	0.30892432	Yes	
+row_48	GRM4	GRM4	glutamate receptor, metabotropic 4	2057	0.2158435583114624	0.3151214	Yes	
+row_49	GRM3	GRM3	glutamate receptor, metabotropic 3	2106	0.21389810740947723	0.31924525	Yes	
+row_50	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	2118	0.21335390210151672	0.3251704	Yes	
+row_51	CCKBR	CCKBR	cholecystokinin B receptor	2155	0.2121102213859558	0.3298296	Yes	
+row_52	TACR2	TACR2	tachykinin receptor 2	2311	0.20642918348312378	0.3284701	Yes	
+row_53	CALCR	CALCR	calcitonin receptor	2390	0.20355363190174103	0.33080655	Yes	
+row_54	KISS1R	KISS1R	KISS1 receptor	2397	0.20315444469451904	0.33666825	Yes	
+row_55	CNR2	CNR2	cannabinoid receptor 2 (macrophage)	2414	0.20241937041282654	0.3420164	Yes	
+row_56	SCTR	SCTR	secretin receptor	2464	0.20104286074638367	0.34570152	Yes	
+row_57	GRM8	GRM8	glutamate receptor, metabotropic 8	2517	0.1995260864496231	0.34919327	Yes	
+row_58	CHRND	CHRND	cholinergic receptor, nicotinic, delta	2521	0.19924061000347137	0.35508376	Yes	
+row_59	LTB4R2	LTB4R2	leukotriene B4 receptor 2	2538	0.19863814115524292	0.36031732	Yes	
+row_60	HTR4	HTR4	5-hydroxytryptamine (serotonin) receptor 4	2620	0.19585472345352173	0.36227304	Yes	
+row_61	AGTR1	AGTR1	angiotensin II receptor, type 1	2631	0.195622518658638	0.36770996	Yes	
+row_62	NPBWR2	NPBWR2	neuropeptides B/W receptor 2	2641	0.1954326629638672	0.37319028	Yes	
+row_63	AVPR1A	AVPR1A	arginine vasopressin receptor 1A	2670	0.1945885717868805	0.37771153	Yes	
+row_64	GNRHR	GNRHR	gonadotropin-releasing hormone receptor	2699	0.19370442628860474	0.38220602	Yes	
+row_65	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	2834	0.18890687823295593	0.38134727	Yes	
+row_66	ADORA2B	ADORA2B	adenosine A2b receptor	2920	0.18585754930973053	0.3828035	Yes	
+row_67	PLG	PLG	plasminogen	2922	0.18570969998836517	0.38838223	Yes	
+row_68	HRH2	HRH2	histamine receptor H2	3108	0.17974770069122314	0.38474026	Yes	
+row_69	PTGDR	PTGDR	prostaglandin D2 receptor (DP)	3245	0.17603184282779694	0.38339308	Yes	
+row_70	HRH4	HRH4	histamine receptor H4	3261	0.17548562586307526	0.38797414	Yes	
+row_71	AGTR2	AGTR2	angiotensin II receptor, type 2	3274	0.17507167160511017	0.39269003	Yes	
+row_72	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	3445	0.1702037900686264	0.38949582	Yes	
+row_73	GLP1R	GLP1R	glucagon-like peptide 1 receptor	3450	0.16993333399295807	0.39444903	Yes	
+row_74	MCHR1	MCHR1	melanin-concentrating hormone receptor 1	3552	0.16712993383407593	0.39455166	Yes	
+row_75	NMUR1	NMUR1	neuromedin U receptor 1	3602	0.16604496538639069	0.39717618	Yes	
+row_76	LHCGR	LHCGR	luteinizing hormone/choriogonadotropin receptor	3617	0.16555699706077576	0.40150547	Yes	
+row_77	HTR7	HTR7	5-hydroxytryptamine (serotonin) receptor 7 (adenylate cyclase-coupled)	3682	0.16338902711868286	0.40331256	Yes	
+row_78	MLNR	MLNR	motilin receptor	3890	0.15834102034568787	0.397941	Yes	
+row_79	F2RL2	F2RL2	coagulation factor II (thrombin) receptor-like 2	3928	0.1574459671974182	0.4008945	Yes	
+row_80	GLRA2	GLRA2	glycine receptor, alpha 2	3955	0.156680166721344	0.40436524	Yes	
+row_81	MTNR1A	MTNR1A	melatonin receptor 1A	3970	0.15618115663528442	0.4084104	Yes	
+row_82	GABRG1	GABRG1	gamma-aminobutyric acid (GABA) A receptor, gamma 1	4009	0.1552072912454605	0.41124693	Yes	
+row_83	GPR156	GPR156	G protein-coupled receptor 156	4020	0.15508101880550385	0.41545528	Yes	
+row_84	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	4073	0.15389925241470337	0.41756433	Yes	
+row_85	HTR2B	HTR2B	5-hydroxytryptamine (serotonin) receptor 2B	4087	0.15356972813606262	0.4215795	Yes	
+row_86	NPY5R	NPY5R	neuropeptide Y receptor Y5	4108	0.1528514176607132	0.42522898	Yes	
+row_87	SSTR2	SSTR2	somatostatin receptor 2	4254	0.14948514103889465	0.42263514	Yes	
+row_88	TRHR	TRHR	thyrotropin-releasing hormone receptor	4273	0.14915211498737335	0.42627078	Yes	
+row_89	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	4334	0.14783799648284912	0.4278031	Yes	
+row_90	FSHR	FSHR	follicle stimulating hormone receptor	4342	0.1476946771144867	0.431935	Yes	
+row_91	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	4399	0.14610172808170319	0.43361124	Yes	
+row_92	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	4545	0.14242078363895416	0.43080333	Yes	
+row_93	GIPR	GIPR	gastric inhibitory polypeptide receptor	4566	0.14195173978805542	0.4341225	Yes	
+row_94	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4787	0.13732875883579254	0.4274755	Yes	
+row_95	SSTR4	SSTR4	somatostatin receptor 4	4857	0.13556304574012756	0.4281937	Yes	
+row_96	HTR2A	HTR2A	5-hydroxytryptamine (serotonin) receptor 2A	4938	0.13360559940338135	0.4283121	Yes	
+row_97	BRS3	BRS3	bombesin-like receptor 3	5034	0.1311478465795517	0.42761907	Yes	
+row_98	OPRD1	OPRD1	opioid receptor, delta 1	5131	0.12904760241508484	0.42681327	Yes	
+row_99	GABRA1	GABRA1	gamma-aminobutyric acid (GABA) A receptor, alpha 1	5206	0.12707476317882538	0.42702857	Yes	
+row_100	P2RY10	P2RY10	purinergic receptor P2Y, G-protein coupled, 10	5241	0.12650372087955475	0.42919177	Yes	
+row_101	TAAR5	TAAR5	trace amine associated receptor 5	5249	0.12627454102039337	0.43267456	Yes	
+row_102	TACR3	TACR3	tachykinin receptor 3	5250	0.12626679241657257	0.436501	Yes	
+row_103	GCGR	GCGR	glucagon receptor	5264	0.12598209083080292	0.43968013	Yes	
+row_104	GRM1	GRM1	glutamate receptor, metabotropic 1	5393	0.12338164448738098	0.43713045	Yes	
+row_105	GHSR	GHSR	growth hormone secretagogue receptor	5506	0.12093643099069595	0.43529278	Yes	
+row_106	THRB	THRB	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)	5556	0.11982044577598572	0.4365165	Yes	
+row_107	ADRA2B	ADRA2B	adrenergic, alpha-2B-, receptor	5659	0.11778876185417175	0.43507472	Yes	
+row_108	DRD4	DRD4	dopamine receptor D4	5711	0.11664590239524841	0.43610397	Yes	
+row_109	PRSS3	PRSS3	protease, serine, 3 (mesotrypsin)	5716	0.11660366505384445	0.43944106	Yes	
+row_110	ADRA1D	ADRA1D	adrenergic, alpha-1D-, receptor	5734	0.1161806508898735	0.44212663	Yes	
+row_111	HCRTR2	HCRTR2	hypocretin (orexin) receptor 2	5774	0.11510003358125687	0.4436986	Yes	
+row_112	ADRA1A	ADRA1A	adrenergic, alpha-1A-, receptor	5795	0.1144118681550026	0.4461832	Yes	
+row_113	GPR50	GPR50	G protein-coupled receptor 50	5803	0.11426256597042084	0.44930196	Yes	
+row_114	UTS2R	UTS2R	urotensin 2 receptor	5830	0.11353879421949387	0.4514653	Yes	
+row_115	CRHR1	CRHR1	corticotropin releasing hormone receptor 1	5881	0.1126122996211052	0.45242146	Yes	
+row_116	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	5926	0.11169640719890594	0.4536446	Yes	
+row_117	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	5931	0.11148863285779953	0.4568267	Yes	
+row_118	MC5R	MC5R	melanocortin 5 receptor	6039	0.10921545326709747	0.45487946	Yes	
+row_119	HRH1	HRH1	histamine receptor H1	6092	0.10834525525569916	0.45560804	Yes	
+row_120	VIPR2	VIPR2	vasoactive intestinal peptide receptor 2	6110	0.10807444155216217	0.45804796	Yes	
+row_121	NMUR2	NMUR2	neuromedin U receptor 2	6304	0.10366969555616379	0.45170745	No	
+row_122	NPFFR1	NPFFR1	neuropeptide FF receptor 1	6368	0.10245170444250107	0.451717	No	
+row_123	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	6407	0.10170356929302216	0.45293212	No	
+row_124	TAAR2	TAAR2	trace amine associated receptor 2	6492	0.1000169962644577	0.45183614	No	
+row_125	ADRB3	ADRB3	adrenergic, beta-3-, receptor	6550	0.0989077240228653	0.45203304	No	
+row_126	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	6803	0.09343387186527252	0.44248366	No	
+row_127	GRIN2A	GRIN2A	glutamate receptor, ionotropic, N-methyl D-aspartate 2A	6828	0.09284583479166031	0.44411817	No	
+row_128	PTGIR	PTGIR	prostaglandin I2 (prostacyclin) receptor (IP)	7013	0.08946455270051956	0.43778935	No	
+row_129	GHR	GHR	growth hormone receptor	7130	0.08739344030618668	0.43473864	No	
+row_130	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	7151	0.08709563314914703	0.43639544	No	
+row_131	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	7359	0.08279325813055038	0.42873445	No	
+row_132	GRIK1	GRIK1	glutamate receptor, ionotropic, kainate 1	7383	0.08218291401863098	0.43009496	No	
+row_133	PTGER1	PTGER1	prostaglandin E receptor 1 (subtype EP1), 42kDa	7384	0.0821809470653534	0.43258542	No	
+row_134	VIPR1	VIPR1	vasoactive intestinal peptide receptor 1	7450	0.0809122622013092	0.43184394	No	
+row_135	HTR1D	HTR1D	5-hydroxytryptamine (serotonin) receptor 1D	7464	0.08048208802938461	0.43364424	No	
+row_136	PRL	PRL	prolactin	7468	0.08042510598897934	0.43593407	No	
+row_137	P2RY6	P2RY6	pyrimidinergic receptor P2Y, G-protein coupled, 6	7496	0.07984554022550583	0.43702725	No	
+row_138	LTB4R	LTB4R	leukotriene B4 receptor	7498	0.07981885969638824	0.43939698	No	
+row_139	GABRE	GABRE	gamma-aminobutyric acid (GABA) A receptor, epsilon	7572	0.07823816686868668	0.43818143	No	
+row_140	GLP2R	GLP2R	glucagon-like peptide 2 receptor	7629	0.0771845206618309	0.43776917	No	
+row_141	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7659	0.07658681273460388	0.4386653	No	
+row_142	GLRA3	GLRA3	glycine receptor, alpha 3	7660	0.07657044380903244	0.44098574	No	
+row_143	NPY1R	NPY1R	neuropeptide Y receptor Y1	7729	0.0754302591085434	0.43993074	No	
+row_144	PTGER2	PTGER2	prostaglandin E receptor 2 (subtype EP2), 53kDa	8098	0.06859886646270752	0.4239296	No	
+row_145	GALR3	GALR3	galanin receptor 3	8116	0.0683925598859787	0.425167	No	
+row_146	NPFFR2	NPFFR2	neuropeptide FF receptor 2	8129	0.06815634667873383	0.4266429	No	
+row_147	CHRNB3	CHRNB3	cholinergic receptor, nicotinic, beta 3	8131	0.06812189519405365	0.42865816	No	
+row_148	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	8260	0.06562496721744537	0.4243582	No	
+row_149	MC2R	MC2R	melanocortin 2 receptor (adrenocorticotropic hormone)	8297	0.06512864679098129	0.4245632	No	
+row_150	CHRNA10	CHRNA10	cholinergic receptor, nicotinic, alpha 10	8352	0.06414952129125595	0.42385417	No	
+row_151	OPRL1	OPRL1	opiate receptor-like 1	8476	0.06201351433992386	0.41969043	No	
+row_152	CHRNA9	CHRNA9	cholinergic receptor, nicotinic, alpha 9	8596	0.059547651559114456	0.41564846	No	
+row_153	TRPV1	TRPV1	transient receptor potential cation channel, subfamily V, member 1	8660	0.05840856954455376	0.4143233	No	
+row_154	MC1R	MC1R	melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)	8775	0.05645277723670006	0.4104332	No	
+row_155	GABRA2	GABRA2	gamma-aminobutyric acid (GABA) A receptor, alpha 2	9021	0.05221696197986603	0.39997867	No	
+row_156	HTR6	HTR6	5-hydroxytryptamine (serotonin) receptor 6	9138	0.049910638481378555	0.39579207	No	
+row_157	HTR5A	HTR5A	5-hydroxytryptamine (serotonin) receptor 5A	9232	0.04808355122804642	0.39268008	No	
+row_158	DRD1	DRD1	dopamine receptor D1	9239	0.04791334271430969	0.3938373	No	
+row_159	GALR1	GALR1	galanin receptor 1	9255	0.04760141298174858	0.39454287	No	
+row_160	CCKAR	CCKAR	cholecystokinin A receptor	9275	0.04712030291557312	0.39503735	No	
+row_161	LEPR	LEPR	leptin receptor	9358	0.04574189707636833	0.39239484	No	
+row_162	GABRQ	GABRQ	gamma-aminobutyric acid (GABA) receptor, theta	9363	0.04571106657385826	0.39358357	No	
+row_163	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	9384	0.045344166457653046	0.3939751	No	
+row_164	PRSS1	PRSS1	protease, serine, 1 (trypsin 1)	9389	0.04525330290198326	0.39514995	No	
+row_165	CHRM5	CHRM5	cholinergic receptor, muscarinic 5	9420	0.04477027431130409	0.3950328	No	
+row_166	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	9427	0.04461726173758507	0.39609012	No	
+row_167	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	9523	0.042841002345085144	0.392721	No	
+row_168	GABBR1	GABBR1	gamma-aminobutyric acid (GABA) B receptor, 1	9596	0.041498102247714996	0.39044118	No	
+row_169	MAS1	MAS1	MAS1 oncogene	9626	0.040889494121074677	0.39025554	No	
+row_170	HTR1F	HTR1F	5-hydroxytryptamine (serotonin) receptor 1F	9698	0.03970758244395256	0.3879706	No	
+row_171	CTSG	CTSG	cathepsin G	9722	0.03936583548784256	0.38803357	No	
+row_172	OXTR	OXTR	oxytocin receptor	10013	0.03432577848434448	0.37482598	No	
+row_173	GRIA2	GRIA2	glutamate receptor, ionotropic, AMPA 2	10016	0.03427775576710701	0.3757665	No	
+row_174	CYSLTR1	CYSLTR1	cysteinyl leukotriene receptor 1	10028	0.034051790833473206	0.376258	No	
+row_175	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	10105	0.032409463077783585	0.37350622	No	
+row_176	ADRA1B	ADRA1B	adrenergic, alpha-1B-, receptor	10511	0.025055166333913803	0.3543677	No	
+row_177	ADRA2A	ADRA2A	adrenergic, alpha-2A-, receptor	10538	0.024587322026491165	0.3538354	No	
+row_178	LEP	LEP	leptin (obesity homolog, mouse)	10564	0.023939603939652443	0.35333264	No	
+row_179	GABRP	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi	10689	0.021818997338414192	0.34790167	No	
+row_180	HTR1A	HTR1A	5-hydroxytryptamine (serotonin) receptor 1A	10716	0.021317683160305023	0.3472703	No	
+row_181	PPYR1	PPYR1	pancreatic polypeptide receptor 1	10744	0.020795246586203575	0.34657398	No	
+row_182	P2RY2	P2RY2	purinergic receptor P2Y, G-protein coupled, 2	10745	0.020751122385263443	0.34720284	No	
+row_183	AVPR1B	AVPR1B	arginine vasopressin receptor 1B	10892	0.01821018196642399	0.34058166	No	
+row_184	SSTR5	SSTR5	somatostatin receptor 5	10989	0.01644914597272873	0.3363636	No	
+row_185	F2	F2	coagulation factor II (thrombin)	10993	0.016396624967455864	0.3367131	No	
+row_186	LHB	LHB	luteinizing hormone beta polypeptide	11013	0.01586545631289482	0.33626044	No	
+row_187	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	11331	0.010265897959470749	0.3209972	No	
+row_188	EDNRA	EDNRA	endothelin receptor type A	11486	0.00784392561763525	0.31366882	No	
+row_189	SSTR1	SSTR1	somatostatin receptor 1	11558	0.006568337325006723	0.31037962	No	
+row_190	P2RX5	P2RX5	purinergic receptor P2X, ligand-gated ion channel, 5	11847	9.826587047427893E-4	0.29625985	No	
+row_191	GRIN3B	GRIN3B	glutamate receptor, ionotropic, N-methyl-D-aspartate 3B	11958	-8.866185089573264E-4	0.29088238	No	
+row_192	TSHR	TSHR	thyroid stimulating hormone receptor	11992	-0.0013964363606646657	0.2893034	No	
+row_193	PRLR	PRLR	prolactin receptor	12075	-0.0034030741080641747	0.28537783	No	
+row_194	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	12198	-0.005431591998785734	0.27954853	No	
+row_195	GRIK4	GRIK4	glutamate receptor, ionotropic, kainate 4	12272	-0.006735109258443117	0.2761661	No	
+row_196	CHRNA5	CHRNA5	cholinergic receptor, nicotinic, alpha 5	12312	-0.007383372634649277	0.27447376	No	
+row_197	P2RY8	P2RY8	purinergic receptor P2Y, G-protein coupled, 8	12761	-0.016051674261689186	0.25294977	No	
+row_198	PTGFR	PTGFR	prostaglandin F receptor (FP)	12890	-0.01844940520823002	0.2472202	No	
+row_199	C3AR1	C3AR1	complement component 3a receptor 1	12897	-0.01857445202767849	0.2474883	No	
+row_200	GH1	GH1	growth hormone 1	12924	-0.019053297117352486	0.24678832	No	
+row_201	TACR1	TACR1	tachykinin receptor 1	13138	-0.022897794842720032	0.23701745	No	
+row_202	HTR1B	HTR1B	5-hydroxytryptamine (serotonin) receptor 1B	13191	-0.023564333096146584	0.23517677	No	
+row_203	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	13231	-0.024258477613329887	0.23399583	No	
+row_204	GH2	GH2	growth hormone 2	13249	-0.024598389863967896	0.23390606	No	
+row_205	GRIN3A	GRIN3A	glutamate receptor, ionotropic, N-methyl-D-aspartate 3A	13305	-0.025610268115997314	0.23198	No	
+row_206	ADORA1	ADORA1	adenosine A1 receptor	13419	-0.027802014723420143	0.22727078	No	
+row_207	ADRB1	ADRB1	adrenergic, beta-1-, receptor	13540	-0.030452243983745575	0.22229798	No	
+row_208	GRM2	GRM2	glutamate receptor, metabotropic 2	13583	-0.031207699328660965	0.22118023	No	
+row_209	FSHB	FSHB	follicle stimulating hormone, beta polypeptide	13587	-0.03130216524004936	0.22198144	No	
+row_210	P2RX2	P2RX2	purinergic receptor P2X, ligand-gated ion channel, 2	13599	-0.03154610097408295	0.222397	No	
+row_211	FPR1	FPR1	formyl peptide receptor 1	13600	-0.031567223370075226	0.22335362	No	
+row_212	P2RY1	P2RY1	purinergic receptor P2Y, G-protein coupled, 1	13687	-0.03342375531792641	0.2201413	No	
+row_213	PTAFR	PTAFR	platelet-activating factor receptor	13767	-0.035023778676986694	0.21732138	No	
+row_214	EDNRB	EDNRB	endothelin receptor type B	13776	-0.0352981798350811	0.21799803	No	
+row_215	GRID1	GRID1	glutamate receptor, ionotropic, delta 1	13790	-0.03555617481470108	0.21843685	No	
+row_216	BDKRB2	BDKRB2	bradykinin receptor B2	13869	-0.03692289814352989	0.2157236	No	
+row_217	GPR83	GPR83	G protein-coupled receptor 83	13885	-0.03723841533064842	0.21611515	No	
+row_218	SSTR3	SSTR3	somatostatin receptor 3	14030	-0.04011238366365433	0.21025595	No	
+row_219	GRID2	GRID2	glutamate receptor, ionotropic, delta 2	14176	-0.04304655268788338	0.20443656	No	
+row_220	CNR1	CNR1	cannabinoid receptor 1 (brain)	14243	-0.044469479471445084	0.20254157	No	
+row_221	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	14346	-0.046343617141246796	0.19893469	No	
+row_222	RXFP1	RXFP1	relaxin/insulin-like family peptide receptor 1	14351	-0.046376410871744156	0.20014359	No	
+row_223	ADORA2A	ADORA2A	adenosine A2a receptor	14430	-0.04802733287215233	0.19776686	No	
+row_224	PTGER4	PTGER4	prostaglandin E receptor 4 (subtype EP4)	14573	-0.0509382002055645	0.192334	No	
+row_225	GALR2	GALR2	galanin receptor 2	14640	-0.052322033792734146	0.19067699	No	
+row_226	F2RL1	F2RL1	coagulation factor II (thrombin) receptor-like 1	14669	-0.05296599119901657	0.19090645	No	
+row_227	DRD3	DRD3	dopamine receptor D3	15110	-0.06148172914981842	0.17115225	No	
+row_228	GABRR1	GABRR1	gamma-aminobutyric acid (GABA) receptor, rho 1	15463	-0.06892137974500656	0.15594698	No	
+row_229	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	15481	-0.06920335441827774	0.15720893	No	
+row_230	CHRNA6	CHRNA6	cholinergic receptor, nicotinic, alpha 6	15595	-0.07158941775560379	0.15382668	No	
+row_231	PRSS2	PRSS2	protease, serine, 2 (trypsin 2)	15645	-0.07252831012010574	0.15361723	No	
+row_232	MCHR2	MCHR2	melanin-concentrating hormone receptor 2	15809	-0.07601461559534073	0.14791256	No	
+row_233	P2RY14	P2RY14	purinergic receptor P2Y, G-protein coupled, 14	16264	-0.08638577163219452	0.12822524	No	
+row_234	NPY2R	NPY2R	neuropeptide Y receptor Y2	16499	-0.09204330295324326	0.11951806	No	
+row_235	RXFP2	RXFP2	relaxin/insulin-like family peptide receptor 2	16593	-0.09429556876420975	0.11780651	No	
+row_236	TAAR8	TAAR8	trace amine associated receptor 8	16924	-0.10195215791463852	0.104683094	No	
+row_237	GABRG3	GABRG3	gamma-aminobutyric acid (GABA) A receptor, gamma 3	16980	-0.10327591001987457	0.105110645	No	
+row_238	CGA	CGA	glycoprotein hormones, alpha polypeptide	17087	-0.10576842725276947	0.103108086	No	
+row_239	P2RY13	P2RY13	purinergic receptor P2Y, G-protein coupled, 13	17502	-0.11728805303573608	0.086322464	No	
+row_240	NTSR1	NTSR1	neurotensin receptor 1 (high affinity)	17942	-0.12994103133678436	0.06869202	No	
+row_241	MTNR1B	MTNR1B	melatonin receptor 1B	18001	-0.13208556175231934	0.069845244	No	
+row_242	ADRA2C	ADRA2C	adrenergic, alpha-2C-, receptor	18065	-0.13399800658226013	0.07081077	No	
+row_243	CALCRL	CALCRL	calcitonin receptor-like	18507	-0.14863303303718567	0.05364852	No	
+row_244	PTGER3	PTGER3	prostaglandin E receptor 3 (subtype EP3)	18665	-0.1544896960258484	0.050616782	No	
+row_245	P2RY11	P2RY11	purinergic receptor P2Y, G-protein coupled, 11	19013	-0.16926033794879913	0.03869789	No	
+row_246	C5AR1	C5AR1	complement component 5a receptor 1	19019	-0.16942694783210754	0.043586638	No	
+row_247	HTR1E	HTR1E	5-hydroxytryptamine (serotonin) receptor 1E	19144	-0.17542409896850586	0.04281061	No	
+row_248	TAAR1	TAAR1	trace amine associated receptor 1	19156	-0.17615772783756256	0.04760855	No	
+row_249	TSPO	TSPO	translocator protein (18kDa)	19338	-0.18479840457439423	0.044316173	No	
+row_250	PRLHR	PRLHR	prolactin releasing hormone receptor	20388	-0.2760870158672333	0.0011450757	No	
+row_251	NMBR	NMBR	neuromedin B receptor	20511	-0.3123933672904968	0.0046180957	No	

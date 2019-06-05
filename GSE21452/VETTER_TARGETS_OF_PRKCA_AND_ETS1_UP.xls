@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RUNX1	RUNX1	runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene)	4650	0.14041638374328613	-0.1580914	No	
+row_1	TRPC1	TRPC1	transient receptor potential cation channel, subfamily C, member 1	8067	0.0691157802939415	-0.29064837	No	
+row_2	ARL4C	ARL4C	ADP-ribosylation factor-like 4C	8434	0.06262964755296707	-0.27821124	No	
+row_3	PML	PML	promyelocytic leukemia	9062	0.0514526404440403	-0.2838412	No	
+row_4	PEG10	PEG10	paternally expressed 10	10217	0.03018658049404621	-0.3253234	No	
+row_5	SEC23IP	SEC23IP	SEC23 interacting protein	13565	-0.030992204323410988	-0.47291982	No	
+row_6	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	17900	-0.12865155935287476	-0.6213399	Yes	
+row_7	DIAPH1	DIAPH1	diaphanous homolog 1 (Drosophila)	18152	-0.13644304871559143	-0.567711	Yes	
+row_8	RHOBTB3	RHOBTB3	Rho-related BTB domain containing 3	18394	-0.14497721195220947	-0.50947964	Yes	
+row_9	FN1	FN1	fibronectin 1	18892	-0.16315875947475433	-0.45491028	Yes	
+row_10	SCAMP1	SCAMP1	secretory carrier membrane protein 1	19129	-0.17462733387947083	-0.38213316	Yes	
+row_11	UBAP2L	UBAP2L	ubiquitin associated protein 2-like	19517	-0.19518278539180756	-0.3067736	Yes	
+row_12	HS2ST1	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	19595	-0.20018690824508667	-0.213945	Yes	
+row_13	TGFB2	TGFB2	transforming growth factor, beta 2	19880	-0.22110030055046082	-0.12108092	Yes	
+row_14	INSIG1	INSIG1	insulin induced gene 1	20528	-0.3238914906978607	0.0037395249	Yes	

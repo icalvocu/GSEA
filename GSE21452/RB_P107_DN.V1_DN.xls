@@ -1,0 +1,106 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GUCA2A	GUCA2A	guanylate cyclase activator 2A (guanylin)	2535	0.198665052652359	-0.10533709	No	
+row_1	APTX	APTX	aprataxin	4005	0.1553928107023239	-0.16266608	No	
+row_2	KRT7	KRT7	keratin 7	4797	0.13718262314796448	-0.18860237	No	
+row_3	PLEKHA7	PLEKHA7	pleckstrin homology domain containing, family A member 7	4803	0.13694189488887787	-0.17622125	No	
+row_4	MYO1D	MYO1D	myosin ID	5399	0.12325295805931091	-0.19388124	No	
+row_5	MBNL3	MBNL3	muscleblind-like 3 (Drosophila)	5521	0.1207195296883583	-0.18865396	No	
+row_6	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	6085	0.10844073444604874	-0.20611863	No	
+row_7	PHF8	PHF8	PHD finger protein 8	6664	0.09644334018230438	-0.22542103	No	
+row_8	KIAA1147	KIAA1147	KIAA1147	6880	0.09208891540765762	-0.22741842	No	
+row_9	NUCB2	NUCB2	nucleobindin 2	8589	0.05961640551686287	-0.30523524	No	
+row_10	S100A9	S100A9	S100 calcium binding protein A9	8737	0.056893203407526016	-0.3071605	No	
+row_11	EDN1	EDN1	endothelin 1	9371	0.04562249779701233	-0.33383098	No	
+row_12	PLK3	PLK3	polo-like kinase 3 (Drosophila)	9644	0.04071095958352089	-0.3433454	No	
+row_13	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	9703	0.039612431079149246	-0.34252256	No	
+row_14	RHOU	RHOU	ras homolog gene family, member U	9819	0.03770318999886513	-0.3446561	No	
+row_15	NRBP1	NRBP1	nuclear receptor binding protein 1	9932	0.03562002629041672	-0.34683535	No	
+row_16	PEX3	PEX3	peroxisomal biogenesis factor 3	10219	0.030124319717288017	-0.35800865	No	
+row_17	COQ9	COQ9	coenzyme Q9 homolog (S. cerevisiae)	10436	0.02616875059902668	-0.36613217	No	
+row_18	CBR4	CBR4	carbonyl reductase 4	10958	0.016972513869404793	-0.38998082	No	
+row_19	GLRX	GLRX	glutaredoxin (thioltransferase)	11367	0.009727838449180126	-0.40898547	No	
+row_20	S100A16	S100A16	S100 calcium binding protein A16	11372	0.009692542254924774	-0.408287	No	
+row_21	ELOVL1	ELOVL1	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 1	11397	0.009210193529725075	-0.40860856	No	
+row_22	CHAC1	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli)	11757	0.0026864996179938316	-0.4258722	No	
+row_23	TXNRD3	TXNRD3	thioredoxin reductase 3	12039	-0.002419402590021491	-0.43935582	No	
+row_24	RARS	RARS	arginyl-tRNA synthetase	12115	-0.004079275298863649	-0.4426381	No	
+row_25	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	12131	-0.004252887796610594	-0.4429777	No	
+row_26	PANK1	PANK1	pantothenate kinase 1	12398	-0.009242828004062176	-0.45510054	No	
+row_27	RSRC1	RSRC1	arginine/serine-rich coiled-coil 1	12630	-0.01344028115272522	-0.4651292	No	
+row_28	S100A8	S100A8	S100 calcium binding protein A8	12732	-0.015632744878530502	-0.46861455	No	
+row_29	POR	POR	P450 (cytochrome) oxidoreductase	12914	-0.018975678831338882	-0.47569397	No	
+row_30	LACTB2	LACTB2	lactamase, beta 2	12927	-0.0190906822681427	-0.4745193	No	
+row_31	HIGD2A	HIGD2A	HIG1 domain family, member 2A	12954	-0.019664864987134933	-0.4739746	No	
+row_32	SYTL1	SYTL1	synaptotagmin-like 1	12982	-0.02013692818582058	-0.47343513	No	
+row_33	PEX19	PEX19	peroxisomal biogenesis factor 19	13351	-0.026413727551698685	-0.4889503	No	
+row_34	PINX1	PINX1	-	13354	-0.026425179094076157	-0.48661166	No	
+row_35	CRABP2	CRABP2	cellular retinoic acid binding protein 2	13393	-0.02722778171300888	-0.48595506	No	
+row_36	AKAP9	AKAP9	A kinase (PRKA) anchor protein (yotiao) 9	13472	-0.02890433743596077	-0.48709497	No	
+row_37	ARL1	ARL1	ADP-ribosylation factor-like 1	13532	-0.030334284529089928	-0.4871763	No	
+row_38	POLR3G	POLR3G	polymerase (RNA) III (DNA directed) polypeptide G (32kD)	13623	-0.03208394721150398	-0.48860842	No	
+row_39	DDIT4	DDIT4	DNA-damage-inducible transcript 4	13738	-0.03441207483410835	-0.4909966	No	
+row_40	BSDC1	BSDC1	BSD domain containing 1	13783	-0.035425588488578796	-0.48987687	No	
+row_41	UBE3B	UBE3B	ubiquitin protein ligase E3B	13834	-0.036335289478302	-0.48896593	No	
+row_42	SAR1B	SAR1B	SAR1 gene homolog B (S. cerevisiae)	13868	-0.036893993616104126	-0.48717427	No	
+row_43	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	13879	-0.03717771917581558	-0.48423454	No	
+row_44	BIN3	BIN3	bridging integrator 3	13911	-0.03777330741286278	-0.48226425	No	
+row_45	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	14327	-0.04607909172773361	-0.498259	No	
+row_46	RDH11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	14328	-0.04609869420528412	-0.49400908	No	
+row_47	KRT18	KRT18	keratin 18	14787	-0.0549335852265358	-0.511285	No	
+row_48	SLPI	SLPI	secretory leukocyte peptidase inhibitor	14825	-0.05582400783896446	-0.5079432	No	
+row_49	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	14873	-0.05654965713620186	-0.50502235	No	
+row_50	SERPINB1	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1	14895	-0.05688400939106941	-0.5008024	No	
+row_51	PTPRE	PTPRE	protein tyrosine phosphatase, receptor type, E	15274	-0.06474019587039948	-0.513272	Yes	
+row_52	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	15317	-0.06576892733573914	-0.50925726	Yes	
+row_53	GALNT11	GALNT11	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 11 (GalNAc-T11)	15383	-0.06717095524072647	-0.5062352	Yes	
+row_54	POLR1E	POLR1E	polymerase (RNA) I polypeptide E, 53kDa	15627	-0.07229352742433548	-0.51142335	Yes	
+row_55	PPBP	PPBP	pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	15802	-0.0759386420249939	-0.51290977	Yes	
+row_56	AARS	AARS	alanyl-tRNA synthetase	15827	-0.0765739157795906	-0.5070209	Yes	
+row_57	PRSS12	PRSS12	protease, serine, 12 (neurotrypsin, motopsin)	15949	-0.07873333245515823	-0.50566447	Yes	
+row_58	PTPN9	PTPN9	protein tyrosine phosphatase, non-receptor type 9	16006	-0.07999861240386963	-0.5010207	Yes	
+row_59	GJB2	GJB2	gap junction protein, beta 2, 26kDa (connexin 26)	16153	-0.08368056267499924	-0.50042766	Yes	
+row_60	PAFAH1B3	PAFAH1B3	platelet-activating factor acetylhydrolase, isoform Ib, gamma subunit 29kDa	16291	-0.08698589354753494	-0.4990908	Yes	
+row_61	HIST1H2BC	HIST1H2BC	histone cluster 1, H2bc	16295	-0.08712445199489594	-0.49120492	Yes	
+row_62	CAP1	CAP1	CAP, adenylate cyclase-associated protein 1 (yeast)	16318	-0.08766084909439087	-0.48419636	Yes	
+row_63	ANXA1	ANXA1	annexin A1	16508	-0.09225600957870483	-0.48491013	Yes	
+row_64	HSD17B12	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	16564	-0.0937432050704956	-0.4789505	Yes	
+row_65	ACP5	ACP5	acid phosphatase 5, tartrate resistant	16590	-0.09422992169857025	-0.4714827	Yes	
+row_66	ANXA4	ANXA4	annexin A4	16731	-0.09729833155870438	-0.46934146	Yes	
+row_67	UROS	UROS	uroporphyrinogen III synthase (congenital erythropoietic porphyria)	16741	-0.0975879654288292	-0.46078357	Yes	
+row_68	NIPSNAP1	NIPSNAP1	nipsnap homolog 1 (C. elegans)	17023	-0.10429414361715317	-0.4648751	Yes	
+row_69	NMI	NMI	N-myc (and STAT) interactor	17202	-0.10904292017221451	-0.46350467	Yes	
+row_70	PGD	PGD	phosphogluconate dehydrogenase	17267	-0.1109447255730629	-0.4563982	Yes	
+row_71	BLCAP	BLCAP	bladder cancer associated protein	17277	-0.11115893721580505	-0.4465892	Yes	
+row_72	RBM8A	RBM8A	RNA binding motif protein 8A	17329	-0.11267458647489548	-0.43868914	Yes	
+row_73	STX7	STX7	syntaxin 7	17439	-0.11537502706050873	-0.43336925	Yes	
+row_74	PIK3R4	PIK3R4	phosphoinositide-3-kinase, regulatory subunit 4, p150	17550	-0.11867399513721466	-0.42779398	Yes	
+row_75	LPGAT1	LPGAT1	lysophosphatidylglycerol acyltransferase 1	17640	-0.12133967876434326	-0.42094865	Yes	
+row_76	COASY	COASY	Coenzyme A synthase	17707	-0.12298969179391861	-0.41282928	Yes	
+row_77	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	17848	-0.12722937762737274	-0.40792865	Yes	
+row_78	PDCD6	PDCD6	programmed cell death 6	18185	-0.1375953108072281	-0.41163284	Yes	
+row_79	SRI	SRI	sorcin	18245	-0.1395341008901596	-0.40164676	Yes	
+row_80	GSTA4	GSTA4	glutathione S-transferase A4	18361	-0.14378386735916138	-0.39400044	Yes	
+row_81	TXN2	TXN2	thioredoxin 2	18571	-0.15078742802143097	-0.39029363	Yes	
+row_82	NSUN2	NSUN2	NOL1/NOP2/Sun domain family, member 2	18714	-0.15604351460933685	-0.38283408	Yes	
+row_83	NME7	NME7	non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase)	18824	-0.1601979285478592	-0.37338185	Yes	
+row_84	LAS1L	LAS1L	LAS1-like (S. cerevisiae)	18853	-0.16123290359973907	-0.3598832	Yes	
+row_85	GBE1	GBE1	glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)	19052	-0.17064683139324188	-0.3538089	Yes	
+row_86	PRND	PRND	prion protein 2 (dublet)	19101	-0.1730368733406067	-0.34019756	Yes	
+row_87	NFE2L1	NFE2L1	nuclear factor (erythroid-derived 2)-like 1	19190	-0.17799849808216095	-0.32807994	Yes	
+row_88	BCCIP	BCCIP	BRCA2 and CDKN1A interacting protein	19213	-0.1787375807762146	-0.3126748	Yes	
+row_89	PMM2	PMM2	phosphomannomutase 2	19286	-0.18174169957637787	-0.29943162	Yes	
+row_90	EFTUD1	EFTUD1	elongation factor Tu GTP binding domain containing 1	19370	-0.18650144338607788	-0.28628618	Yes	
+row_91	BDH1	BDH1	3-hydroxybutyrate dehydrogenase, type 1	19607	-0.20076346397399902	-0.27928895	Yes	
+row_92	UBE2G2	UBE2G2	ubiquitin-conjugating enzyme E2G 2 (UBC7 homolog, yeast)	19676	-0.2048351913690567	-0.2637216	Yes	
+row_93	COG6	COG6	component of oligomeric golgi complex 6	19920	-0.22387157380580902	-0.2549354	Yes	
+row_94	POMP	POMP	proteasome maturation protein	19940	-0.22553423047065735	-0.23506965	Yes	
+row_95	TDRD7	TDRD7	tudor domain containing 7	20065	-0.23454496264457703	-0.21949486	Yes	
+row_96	TARS	TARS	threonyl-tRNA synthetase	20155	-0.2424478828907013	-0.20148426	Yes	
+row_97	NARS	NARS	asparaginyl-tRNA synthetase	20224	-0.25025245547294617	-0.1817298	Yes	
+row_98	NFE2L2	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	20389	-0.2763809859752655	-0.16424917	Yes	
+row_99	RNF25	RNF25	ring finger protein 25	20404	-0.27891868352890015	-0.13921787	Yes	
+row_100	IARS	IARS	isoleucine-tRNA synthetase	20419	-0.2826606333255768	-0.11384159	Yes	
+row_101	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	20467	-0.29731783270835876	-0.08872371	Yes	
+row_102	TLR2	TLR2	toll-like receptor 2	20557	-0.34210190176963806	-0.061525755	Yes	
+row_103	PPA2	PPA2	pyrophosphatase (inorganic) 2	20561	-0.34426337480545044	-0.029933617	Yes	
+row_104	DAD1	DAD1	defender against cell death 1	20563	-0.3474399745464325	0.0020489409	Yes	
