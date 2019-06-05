@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MSI2	MSI2	musashi homolog 2 (Drosophila)	2719	0.6986246705055237	-0.09719281	No	
+row_1	HN1	HN1	hematological and neurological expressed 1	3138	0.674548327922821	-0.084202155	No	
+row_2	GRINA	GRINA	glutamate receptor, ionotropic, N-methyl D-asparate-associated protein 1 (glutamate binding)	3385	0.6600781083106995	-0.0635993	No	
+row_3	GNL3L	GNL3L	guanine nucleotide binding protein-like 3 (nucleolar)-like	3386	0.6600672602653503	-0.031090492	No	
+row_4	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	3596	0.6470080614089966	-0.009340536	No	
+row_5	BASP1	BASP1	brain abundant, membrane attached signal protein 1	3681	0.6415425539016724	0.018190285	No	
+row_6	IRF2BP2	IRF2BP2	interferon regulatory factor 2 binding protein 2	3873	0.6287714242935181	0.03991328	No	
+row_7	G3BP1	null	null	4620	0.5783389210700989	0.032290235	No	
+row_8	GIT1	GIT1	G protein-coupled receptor kinase interactor 1	6126	0.45872119069099426	-0.017959956	No	
+row_9	PCBP2	PCBP2	poly(rC) binding protein 2	7188	0.36418628692626953	-0.051376298	No	
+row_10	ZNF605	ZNF605	zinc finger protein 605	9357	0.14704403281211853	-0.14906627	No	
+row_11	H2AFV	H2AFV	H2A histone family, member V	9606	0.12237897515296936	-0.1550423	No	
+row_12	NUCKS1	NUCKS1	nuclear casein kinase and cyclin-dependent kinase substrate 1	13399	-0.25923511385917664	-0.32580897	No	
+row_13	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	13665	-0.2823180854320526	-0.3247307	No	
+row_14	SDCCAG3	SDCCAG3	serologically defined colon cancer antigen 3	17211	-0.600210964679718	-0.46674916	Yes	
+row_15	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	17442	-0.6200582981109619	-0.4473429	Yes	
+row_16	NOL8	NOL8	nucleolar protein 8	17536	-0.6289685964584351	-0.42086697	Yes	
+row_17	SEPT7	SEPT7	septin 7	18161	-0.6790896058082581	-0.41762313	Yes	
+row_18	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	18326	-0.6916412115097046	-0.39149693	Yes	
+row_19	YY1	YY1	YY1 transcription factor	18354	-0.6942650079727173	-0.35861066	Yes	
+row_20	KIAA1147	KIAA1147	KIAA1147	18570	-0.7130539417266846	-0.3338983	Yes	
+row_21	IBTK	IBTK	inhibitor of Bruton agammaglobulinemia tyrosine kinase	18604	-0.7159067988395691	-0.30023658	Yes	
+row_22	LARP1	LARP1	La ribonucleoprotein domain family, member 1	18803	-0.732793390750885	-0.2737292	Yes	
+row_23	TUBA1B	null	null	18941	-0.7448005676269531	-0.24367808	Yes	
+row_24	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	19052	-0.7553282380104065	-0.21180163	Yes	
+row_25	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	19139	-0.7636117935180664	-0.1783556	Yes	
+row_26	GRB2	GRB2	growth factor receptor-bound protein 2	19563	-0.8013607263565063	-0.15936135	Yes	
+row_27	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	19850	-0.8273255825042725	-0.13245745	Yes	
+row_28	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	20038	-0.84550541639328	-0.09986654	Yes	
+row_29	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	20216	-0.8671149015426636	-0.065727346	Yes	
+row_30	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	20291	-0.87730473279953	-0.026101053	Yes	
+row_31	BIRC6	BIRC6	baculoviral IAP repeat-containing 6 (apollon)	20568	-0.9230520129203796	0.0060014524	Yes	
