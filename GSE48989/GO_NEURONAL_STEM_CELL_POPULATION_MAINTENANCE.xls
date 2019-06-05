@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HES1	HES1	hairy and enhancer of split 1, (Drosophila)	105	0.9182991981506348	0.08999744	Yes	
+row_1	MMP24	MMP24	matrix metallopeptidase 24 (membrane-inserted)	647	0.8363971710205078	0.15042585	Yes	
+row_2	SRRT	null	null	697	0.8318108320236206	0.23417743	Yes	
+row_3	DLL1	DLL1	delta-like 1 (Drosophila)	886	0.8162746429443359	0.30959705	Yes	
+row_4	FOXO3	null	null	1032	0.8070052862167358	0.38613686	Yes	
+row_5	FOXO1	null	null	2825	0.69222092628479	0.37112716	Yes	
+row_6	CDH2	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	3490	0.6535433530807495	0.40667427	Yes	
+row_7	PRRX1	PRRX1	paired related homeobox 1	4103	0.6138174533843994	0.44062358	Yes	
+row_8	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	4209	0.6075868606567383	0.49845135	Yes	
+row_9	HES5	HES5	hairy and enhancer of split 5 (Drosophila)	8226	0.2665841579437256	0.33179855	No	
+row_10	SOX2	SOX2	SRY (sex determining region Y)-box 2	9845	0.10038658231496811	0.26392955	No	
+row_11	PROX1	PROX1	prospero-related homeobox 1	9897	0.09408300369977951	0.27120358	No	
+row_12	JAG1	JAG1	jagged 1 (Alagille syndrome)	10403	0.04520287364721298	0.25145686	No	
+row_13	IGF2BP1	IGF2BP1	insulin-like growth factor 2 mRNA binding protein 1	11656	-0.08481639623641968	0.19967917	No	
+row_14	HOOK3	HOOK3	hook homolog 3 (Drosophila)	14396	-0.34956008195877075	0.103385694	No	
+row_15	SS18	SS18	synovial sarcoma translocation, chromosome 18	14873	-0.39353349804878235	0.12110618	No	
+row_16	ASPM	ASPM	asp (abnormal spindle) homolog, microcephaly associated (Drosophila)	15127	-0.41524016857147217	0.15186056	No	
+row_17	FUT10	FUT10	fucosyltransferase 10 (alpha (1,3) fucosyltransferase)	15246	-0.42647066712379456	0.19030763	No	
+row_18	PCM1	PCM1	pericentriolar material 1	18475	-0.7057181596755981	0.107236154	No	

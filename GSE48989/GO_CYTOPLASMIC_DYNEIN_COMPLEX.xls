@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	1923	0.7459283471107483	-0.003724092	No	
+row_1	DYNLRB1	DYNLRB1	dynein, light chain, roadblock-type 1	8459	0.2385568916797638	-0.2912098	No	
+row_2	DYNLT1	DYNLT1	dynein, light chain, Tctex-type 1	8875	0.19775345921516418	-0.28761214	No	
+row_3	DCTN4	DCTN4	dynactin 4 (p62)	9165	0.1645604372024536	-0.2818936	No	
+row_4	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	11444	-0.0627390593290329	-0.38455033	No	
+row_5	DYNLRB2	DYNLRB2	dynein, light chain, roadblock-type 2	12996	-0.22071854770183563	-0.43314183	No	
+row_6	BCL2L11	BCL2L11	BCL2-like 11 (apoptosis facilitator)	18006	-0.6680406928062439	-0.5954283	Yes	
+row_7	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	18336	-0.6925843954086304	-0.5284499	Yes	
+row_8	DYNLT3	DYNLT3	dynein, light chain, Tctex-type 3	18614	-0.7166517376899719	-0.45607632	Yes	
+row_9	SNX4	SNX4	sorting nexin 4	18768	-0.7301754355430603	-0.37608752	Yes	
+row_10	DYNC1LI2	DYNC1LI2	dynein, cytoplasmic 1, light intermediate chain 2	18918	-0.7423688173294067	-0.29444593	Yes	
+row_11	TPR	TPR	translocated promoter region (to activated MET oncogene)	19096	-0.7606602907180786	-0.21196933	Yes	
+row_12	TOPORS	TOPORS	topoisomerase I binding, arginine/serine-rich	19278	-0.7755442261695862	-0.12790483	Yes	
+row_13	DYNC1LI1	DYNC1LI1	dynein, cytoplasmic 1, light intermediate chain 1	19725	-0.8161892890930176	-0.051791467	Yes	
+row_14	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	19805	-0.8230876326560974	0.04289583	Yes	

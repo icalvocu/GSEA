@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INPP5K	null	null	1514	0.7714810371398926	0.0076292385	No	
+row_1	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	3312	0.6643895506858826	-0.009657112	No	
+row_2	POU2F3	POU2F3	POU domain, class 2, transcription factor 3	6562	0.41765934228897095	-0.12304622	No	
+row_3	HDAC1	HDAC1	histone deacetylase 1	6751	0.4004896581172943	-0.090160415	No	
+row_4	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	7845	0.3029249608516693	-0.11128058	No	
+row_5	CCL4	CCL4	chemokine (C-C motif) ligand 4	8822	0.2029247283935547	-0.13722317	No	
+row_6	HPN	HPN	hepsin (transmembrane protease, serine 1)	9446	0.13719801604747772	-0.15297915	No	
+row_7	CCL5	CCL5	chemokine (C-C motif) ligand 5	10208	0.06279194355010986	-0.18321022	No	
+row_8	TARDBP	TARDBP	TAR DNA binding protein	10305	0.05477261543273926	-0.1821128	No	
+row_9	NTRK3	NTRK3	neurotrophic tyrosine kinase, receptor, type 3	11590	-0.0771242305636406	-0.23614147	No	
+row_10	HMGA2	HMGA2	high mobility group AT-hook 2	12400	-0.15820986032485962	-0.25869262	No	
+row_11	TFAP4	TFAP4	transcription factor AP-4 (activating enhancer binding protein 4)	12543	-0.17378179728984833	-0.2473456	No	
+row_12	CCL3	CCL3	chemokine (C-C motif) ligand 3	12761	-0.198144793510437	-0.2370729	No	
+row_13	LEF1	LEF1	lymphoid enhancer-binding factor 1	13673	-0.2828623056411743	-0.2514919	No	
+row_14	ZNF639	ZNF639	zinc finger protein 639	18000	-0.667719841003418	-0.39076856	Yes	
+row_15	SP1	SP1	Sp1 transcription factor	18040	-0.6706535816192627	-0.32235575	Yes	
+row_16	SNW1	SNW1	SNW domain containing 1	19498	-0.7942478656768799	-0.30958268	Yes	
+row_17	CHD1	CHD1	chromodomain helicase DNA binding protein 1	19607	-0.805912435054779	-0.23032956	Yes	
+row_18	REST	REST	RE1-silencing transcription factor	20083	-0.8507027626037598	-0.1641349	Yes	
+row_19	JUN	JUN	jun oncogene	20378	-0.8900262713432312	-0.08506246	Yes	
+row_20	EP300	EP300	E1A binding protein p300	20663	-0.9559387564659119	0.0014028256	Yes	

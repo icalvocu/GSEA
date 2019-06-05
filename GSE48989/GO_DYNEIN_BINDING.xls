@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAB11FIP3	RAB11FIP3	RAB11 family interacting protein 3 (class II)	1219	0.7917503714561462	-0.0012638977	No	
+row_1	GLUL	GLUL	glutamate-ammonia ligase (glutamine synthetase)	3200	0.6708527207374573	-0.048156634	No	
+row_2	RILP	RILP	Rab interacting lysosomal protein	4255	0.6041969060897827	-0.05510867	No	
+row_3	SPTBN5	SPTBN5	spectrin, beta, non-erythrocytic 5	5242	0.5326362252235413	-0.06398695	No	
+row_4	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	5374	0.5209893584251404	-0.03234987	No	
+row_5	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	6608	0.41357189416885376	-0.0618564	No	
+row_6	WDR81	WDR81	WD repeat domain 81	7455	0.33973777294158936	-0.07802189	No	
+row_7	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	11444	-0.0627390593290329	-0.2663855	No	
+row_8	NEFH	NEFH	neurofilament, heavy polypeptide 200kDa	12078	-0.12452191114425659	-0.2879332	No	
+row_9	SNCA	SNCA	synuclein, alpha (non A4 component of amyloid precursor)	13164	-0.23563610017299652	-0.3232493	No	
+row_10	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	14628	-0.37028416991233826	-0.3670383	No	
+row_11	SMC3	SMC3	structural maintenance of chromosomes 3	17024	-0.5821808576583862	-0.4404717	Yes	
+row_12	RAN	RAN	RAN, member RAS oncogene family	17094	-0.5874589681625366	-0.40099016	Yes	
+row_13	BCL2L11	BCL2L11	BCL2-like 11 (apoptosis facilitator)	18006	-0.6680406928062439	-0.3963704	Yes	
+row_14	DYNC2LI1	DYNC2LI1	dynein, cytoplasmic 2, light intermediate chain 1	18222	-0.6833417415618896	-0.35696337	Yes	
+row_15	WDR43	WDR43	WD repeat domain 43	18249	-0.6855694055557251	-0.30825028	Yes	
+row_16	FMR1	FMR1	fragile X mental retardation 1	19284	-0.775841236114502	-0.3017236	Yes	
+row_17	DNALI1	DNALI1	dynein, axonemal, light intermediate chain 1	19575	-0.802422046661377	-0.2572653	Yes	
+row_18	HTT	null	null	19578	-0.8030381202697754	-0.19882883	Yes	
+row_19	DYNC1LI1	DYNC1LI1	dynein, cytoplasmic 1, light intermediate chain 1	19725	-0.8161892890930176	-0.1464004	Yes	
+row_20	BICD1	BICD1	bicaudal D homolog 1 (Drosophila)	20185	-0.8620834946632385	-0.10576948	Yes	
+row_21	ATMIN	null	null	20348	-0.8857096433639526	-0.049047798	Yes	
+row_22	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	20457	-0.9005632400512695	0.0113690365	Yes	

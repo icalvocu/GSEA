@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WT1	WT1	Wilms tumor 1	1404	0.7782726883888245	0.009994625	No	
+row_1	CCM2	CCM2	cerebral cavernous malformation 2	2065	0.737339437007904	0.05187745	No	
+row_2	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	4209	0.6075868606567383	0.009043291	No	
+row_3	TBX5	TBX5	T-box 5	5285	0.5283629894256592	0.009935657	No	
+row_4	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	6090	0.4624565839767456	0.01733861	No	
+row_5	DLL4	DLL4	delta-like 4 (Drosophila)	7064	0.37430325150489807	0.0077435556	No	
+row_6	TBX20	TBX20	T-box 20	9157	0.1654626876115799	-0.076879136	No	
+row_7	WNT5A	WNT5A	wingless-type MMTV integration site family, member 5A	10523	0.03260485455393791	-0.13963726	No	
+row_8	BMP2	BMP2	bone morphogenetic protein 2	11000	-0.016763074323534966	-0.1609823	No	
+row_9	HAND2	HAND2	heart and neural crest derivatives expressed 2	11658	-0.08489928394556046	-0.18426165	No	
+row_10	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	15487	-0.44907790422439575	-0.32446146	No	
+row_11	NKX2-6	NKX2-6	NK2 transcription factor related, locus 6 (Drosophila)	18367	-0.6952154040336609	-0.39412284	Yes	
+row_12	HEG1	HEG1	HEG homolog 1 (zebrafish)	19041	-0.7543849945068359	-0.35116258	Yes	
+row_13	RPGRIP1L	null	null	19043	-0.7546209096908569	-0.27567568	Yes	
+row_14	LRP6	LRP6	low density lipoprotein receptor-related protein 6	20045	-0.8466564416885376	-0.23934391	Yes	
+row_15	FLRT3	FLRT3	fibronectin leucine rich transmembrane protein 3	20133	-0.8566017150878906	-0.15780866	Yes	
+row_16	SETD2	SETD2	SET domain containing 2	20420	-0.8955070376396179	-0.082004264	Yes	
+row_17	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	20653	-0.9501974582672119	0.0018863273	Yes	
