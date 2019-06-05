@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COL6A1	COL6A1	collagen, type VI, alpha 1	281	0.8810725808143616	0.06123722	Yes	
+row_1	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	291	0.8799172639846802	0.13553484	Yes	
+row_2	COL9A1	COL9A1	collagen, type IX, alpha 1	1106	0.8007610440254211	0.16416614	Yes	
+row_3	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	1345	0.7823463678359985	0.21909857	Yes	
+row_4	FZD8	FZD8	frizzled homolog 8 (Drosophila)	2339	0.7203581929206848	0.23224162	Yes	
+row_5	COL6A2	COL6A2	collagen, type VI, alpha 2	2465	0.7139495015144348	0.28683156	Yes	
+row_6	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	3462	0.6555051207542419	0.2943214	Yes	
+row_7	CRABP1	CRABP1	cellular retinoic acid binding protein 1	3486	0.6539797782897949	0.34875244	Yes	
+row_8	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	3591	0.6473286151885986	0.3987001	Yes	
+row_9	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	4294	0.6017105579376221	0.41584387	Yes	
+row_10	COL11A1	COL11A1	collagen, type XI, alpha 1	4595	0.5810472965240479	0.4506802	Yes	
+row_11	JUP	JUP	junction plakoglobin	4775	0.5660813450813293	0.49009907	Yes	
+row_12	HPS1	HPS1	Hermansky-Pudlak syndrome 1	5354	0.5222049355506897	0.50648904	Yes	
+row_13	CKS1B	CKS1B	CDC28 protein kinase regulatory subunit 1B	9059	0.1761465221643448	0.34226125	No	
+row_14	GAS2	GAS2	growth arrest-specific 2	10705	0.01269354484975338	0.26375926	No	
+row_15	HMGB1	HMGB1	high-mobility group box 1	12705	-0.19102787971496582	0.18327807	No	
+row_16	GJB2	GJB2	gap junction protein, beta 2, 26kDa (connexin 26)	13277	-0.24681656062602997	0.17661743	No	
+row_17	EFNB1	EFNB1	ephrin-B1	13393	-0.25848522782325745	0.19300771	No	
+row_18	CENPA	CENPA	centromere protein A	14105	-0.32336121797561646	0.18607537	No	
+row_19	GRB10	GRB10	growth factor receptor-bound protein 10	14725	-0.37971389293670654	0.18837984	No	
+row_20	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	16149	-0.5074352025985718	0.16263686	No	
+row_21	COL5A1	COL5A1	collagen, type V, alpha 1	18061	-0.6722000241279602	0.12727971	No	

@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDB2	DDB2	damage-specific DNA binding protein 2, 48kDa	72	0.9295047521591187	0.029434284	No	
+row_1	UHRF1	UHRF1	ubiquitin-like, containing PHD and RING finger domains, 1	395	0.8659190535545349	0.044508174	No	
+row_2	NEURL	NEURL	neuralized homolog (Drosophila)	1766	0.7557899951934814	0.0049235034	No	
+row_3	KLHL22	KLHL22	kelch-like 22 (Drosophila)	2224	0.7274938821792603	0.008556131	No	
+row_4	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	2347	0.7200570702552795	0.028150477	No	
+row_5	RNF126	RNF126	ring finger protein 126	2615	0.7049543857574463	0.040187098	No	
+row_6	RNF40	RNF40	ring finger protein 40	2877	0.6893158555030823	0.05196043	No	
+row_7	UBE2W	UBE2W	ubiquitin-conjugating enzyme E2W (putative)	3085	0.6776465177536011	0.06593584	No	
+row_8	MGRN1	MGRN1	mahogunin, ring finger 1	5150	0.5388528108596802	-0.014945004	No	
+row_9	PAF1	PAF1	Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae)	5304	0.526767373085022	-0.00369808	No	
+row_10	KLHL12	KLHL12	kelch-like 12 (Drosophila)	5538	0.5077738165855408	0.0030014708	No	
+row_11	NEDD4L	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like	7201	0.36284250020980835	-0.06464322	No	
+row_12	NEDD4	NEDD4	neural precursor cell expressed, developmentally down-regulated 4	8899	0.1954398900270462	-0.13991219	No	
+row_13	PCGF1	PCGF1	polycomb group ring finger 1	9707	0.11319087445735931	-0.17498875	No	
+row_14	UBE2O	UBE2O	ubiquitin-conjugating enzyme E2O	9990	0.08448115736246109	-0.18565473	No	
+row_15	TRIM21	TRIM21	tripartite motif-containing 21	10292	0.05623917281627655	-0.19824122	No	
+row_16	PARK2	PARK2	Parkinson disease (autosomal recessive, juvenile) 2, parkin	10650	0.019928911700844765	-0.21482602	No	
+row_17	DTL	DTL	denticleless homolog (Drosophila)	11916	-0.10885738581418991	-0.27223846	No	
+row_18	TRIM25	TRIM25	tripartite motif-containing 25	12823	-0.20430603623390198	-0.30888274	No	
+row_19	RAD18	RAD18	RAD18 homolog (S. cerevisiae)	12986	-0.21947218477725983	-0.3089556	No	
+row_20	UBE2T	UBE2T	ubiquitin-conjugating enzyme E2T (putative)	14119	-0.3244498372077942	-0.3522905	No	
+row_21	RNF168	RNF168	ring finger protein 168	14866	-0.39266541600227356	-0.37451413	No	
+row_22	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	16779	-0.5616187453269958	-0.4472268	No	
+row_23	CUL4B	CUL4B	cullin 4B	16991	-0.5789992809295654	-0.43693903	No	
+row_24	FBXL2	FBXL2	F-box and leucine-rich repeat protein 2	17782	-0.6490169167518616	-0.45221418	Yes	
+row_25	CUL3	CUL3	cullin 3	17827	-0.6528217792510986	-0.4312234	Yes	
+row_26	HUWE1	HUWE1	HECT, UBA and WWE domain containing 1	18109	-0.6750726699829102	-0.4209232	Yes	
+row_27	RNF20	RNF20	ring finger protein 20	18219	-0.6832751631736755	-0.40200198	Yes	
+row_28	BCOR	BCOR	BCL6 co-repressor	18505	-0.708486795425415	-0.39071205	Yes	
+row_29	RNF2	RNF2	ring finger protein 2	18639	-0.7194018363952637	-0.37167367	Yes	
+row_30	PEX12	PEX12	peroxisomal biogenesis factor 12	18771	-0.730549693107605	-0.3521436	Yes	
+row_31	SKP1	null	null	18840	-0.7358167171478271	-0.32937568	Yes	
+row_32	UBE4B	UBE4B	ubiquitination factor E4B (UFD2 homolog, yeast)	18850	-0.7368237376213074	-0.30371454	Yes	
+row_33	RING1	RING1	ring finger protein 1	19085	-0.7593086361885071	-0.28815448	Yes	
+row_34	TOPORS	TOPORS	topoisomerase I binding, arginine/serine-rich	19278	-0.7755442261695862	-0.2699852	Yes	
+row_35	TSG101	TSG101	tumor susceptibility gene 101	19681	-0.8119505047798157	-0.26069742	Yes	
+row_36	LEO1	LEO1	Leo1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	19743	-0.8181501626968384	-0.23467438	Yes	
+row_37	WAC	WAC	WW domain containing adaptor with coiled-coil	19950	-0.8369448781013489	-0.21500845	Yes	
+row_38	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	20110	-0.8543866276741028	-0.1924484	Yes	
+row_39	CUL1	CUL1	cullin 1	20200	-0.8642122745513916	-0.16615003	Yes	
+row_40	UBE2E1	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	20309	-0.8795790672302246	-0.14022763	Yes	
+row_41	CDC73	CDC73	cell division cycle 73, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	20380	-0.8901571035385132	-0.1120901	Yes	
+row_42	RYBP	RYBP	RING1 and YY1 binding protein	20381	-0.8904670476913452	-0.08055128	Yes	
+row_43	KDM2B	null	null	20414	-0.8943760991096497	-0.050423864	Yes	
+row_44	CTR9	CTR9	Ctr9, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	20416	-0.8946104049682617	-0.018786723	Yes	
+row_45	UBE2R2	UBE2R2	ubiquitin-conjugating enzyme E2R 2	20490	-0.9064751863479614	0.009783462	Yes	

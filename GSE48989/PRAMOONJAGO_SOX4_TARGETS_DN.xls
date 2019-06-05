@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HNRNPL	null	null	58	0.9338859915733337	0.031686384	Yes	
+row_1	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	291	0.8799172639846802	0.05295109	Yes	
+row_2	SIGMAR1	null	null	440	0.8583411574363708	0.0774876	Yes	
+row_3	UBE2S	UBE2S	ubiquitin-conjugating enzyme E2S	464	0.8552988171577454	0.10796647	Yes	
+row_4	PTMA	PTMA	prothymosin, alpha (gene sequence 28)	909	0.8147624135017395	0.11655566	Yes	
+row_5	ATP5D	ATP5D	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	994	0.8089584112167358	0.1423681	Yes	
+row_6	MAP2K2	MAP2K2	mitogen-activated protein kinase kinase 2	1044	0.8062459826469421	0.16977568	Yes	
+row_7	ADAM15	ADAM15	ADAM metallopeptidase domain 15 (metargidin)	1424	0.7768105864524841	0.18011147	Yes	
+row_8	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	1457	0.774289608001709	0.20716208	Yes	
+row_9	LY6E	LY6E	lymphocyte antigen 6 complex, locus E	1538	0.7698253989219666	0.23172279	Yes	
+row_10	LAMP1	LAMP1	lysosomal-associated membrane protein 1	1600	0.7660395503044128	0.25706396	Yes	
+row_11	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	1647	0.7633254528045654	0.28303146	Yes	
+row_12	HNRNPA0	null	null	1794	0.7540907859802246	0.30381405	Yes	
+row_13	CANX	CANX	calnexin	2214	0.7280320525169373	0.31041056	Yes	
+row_14	METRN	METRN	meteorin, glial cell differentiation regulator	2288	0.7239328026771545	0.33361515	Yes	
+row_15	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	2462	0.7140989899635315	0.35161272	Yes	
+row_16	PTBP1	PTBP1	polypyrimidine tract binding protein 1	2491	0.7129286527633667	0.37659052	Yes	
+row_17	UCP2	UCP2	uncoupling protein 2 (mitochondrial, proton carrier)	2833	0.6920384168624878	0.38563564	Yes	
+row_18	GLUL	GLUL	glutamate-ammonia ligase (glutamine synthetase)	3200	0.6708527207374573	0.3926873	Yes	
+row_19	ACOT7	ACOT7	acyl-CoA thioesterase 7	4225	0.6062125563621521	0.3654791	No	
+row_20	BIN1	BIN1	bridging integrator 1	6392	0.4330053925514221	0.27655697	No	
+row_21	SPINK5	SPINK5	serine peptidase inhibitor, Kazal type 5	9018	0.18095791339874268	0.15609173	No	
+row_22	ANAPC5	ANAPC5	anaphase promoting complex subunit 5	10629	0.02262897416949272	0.07894262	No	
+row_23	MCCC2	MCCC2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)	10778	0.005892587825655937	0.07199147	No	
+row_24	TMEM97	TMEM97	transmembrane protein 97	11704	-0.08963321894407272	0.030497296	No	
+row_25	KCNQ2	KCNQ2	potassium voltage-gated channel, KQT-like subfamily, member 2	11716	-0.09089209884405136	0.033321843	No	
+row_26	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	12256	-0.1447523832321167	0.012560673	No	
+row_27	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	12651	-0.1852639615535736	3.1940942E-4	No	
+row_28	DLGAP5	null	null	12665	-0.1865648478269577	0.00658103	No	
+row_29	LAPTM4B	LAPTM4B	lysosomal associated protein transmembrane 4 beta	12941	-0.21576951444149017	0.0012306854	No	
+row_30	PEBP1	PEBP1	phosphatidylethanolamine binding protein 1	13015	-0.22218871116638184	0.0059019034	No	
+row_31	FAHD2A	FAHD2A	fumarylacetoacetate hydrolase domain containing 2A	13871	-0.30176928639411926	-0.024365762	No	
+row_32	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	14612	-0.3688274621963501	-0.04658608	No	
+row_33	CCNB1	CCNB1	cyclin B1	14755	-0.3822758197784424	-0.039343797	No	
+row_34	MOSC1	MOSC1	MOCO sulphurase C-terminal domain containing 1	15162	-0.41811099648475647	-0.043565433	No	
+row_35	MLEC	null	null	15774	-0.4762207865715027	-0.055570386	No	
+row_36	TMEM14A	TMEM14A	transmembrane protein 14A	15937	-0.49063506722450256	-0.045294296	No	
+row_37	CALD1	CALD1	caldesmon 1	15952	-0.49222320318222046	-0.027790736	No	
+row_38	CDKN3	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	16068	-0.5011399984359741	-0.014850035	No	
+row_39	ARRB2	ARRB2	arrestin, beta 2	16278	-0.5206704139709473	-0.005741084	No	
+row_40	DLEU1	DLEU1	deleted in lymphocytic leukemia, 1	16303	-0.5225642323493958	0.012398831	No	
+row_41	PEG10	PEG10	paternally expressed 10	18097	-0.6743255853652954	-0.049542118	No	
+row_42	PDCD4	PDCD4	programmed cell death 4 (neoplastic transformation inhibitor)	18725	-0.726597249507904	-0.053073697	No	
+row_43	PTGES	PTGES	prostaglandin E synthase	19010	-0.7514834403991699	-0.03907184	No	
+row_44	EFEMP1	EFEMP1	EGF-containing fibulin-like extracellular matrix protein 1	19019	-0.7523013353347778	-0.011670913	No	
+row_45	HSPA8	HSPA8	heat shock 70kDa protein 8	19283	-0.7758351564407349	0.004247643	No	
+row_46	TMED2	TMED2	transmembrane emp24 domain trafficking protein 2	19967	-0.8387360572814941	0.002145717	No	
+row_47	CTSC	CTSC	cathepsin C	20389	-0.8913144469261169	0.014676651	No	

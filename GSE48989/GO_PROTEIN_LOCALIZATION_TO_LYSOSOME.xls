@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORL1	SORL1	sortilin-related receptor, L(DLR class) A repeats-containing	2353	0.7199786305427551	-0.04648724	No	
+row_1	CD81	CD81	CD81 molecule	3208	0.6704838275909424	-0.025099471	No	
+row_2	SH3BP4	SH3BP4	SH3-domain binding protein 4	4345	0.5984534621238708	-0.024086578	No	
+row_3	NAGPA	NAGPA	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	5395	0.5200319886207581	-0.026198514	No	
+row_4	GNPTG	GNPTG	N-acetylglucosamine-1-phosphate transferase, gamma subunit	5960	0.4733240008354187	-0.009219604	No	
+row_5	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	6950	0.3830961585044861	-0.02123369	No	
+row_6	NEDD4	NEDD4	neural precursor cell expressed, developmentally down-regulated 4	8899	0.1954398900270462	-0.09717913	No	
+row_7	RNF128	RNF128	ring finger protein 128	10272	0.05869855731725693	-0.15805085	No	
+row_8	SCARB2	SCARB2	scavenger receptor class B, member 2	12727	-0.19378706812858582	-0.25862482	No	
+row_9	ZFYVE16	ZFYVE16	zinc finger, FYVE domain containing 16	15439	-0.445109486579895	-0.34812936	No	
+row_10	HBXIP	HBXIP	hepatitis B virus x interacting protein	18632	-0.7186406850814819	-0.4353221	Yes	
+row_11	RAB7A	null	null	19183	-0.7673388719558716	-0.39017415	Yes	
+row_12	HSPA8	HSPA8	heat shock 70kDa protein 8	19283	-0.7758351564407349	-0.32241794	Yes	
+row_13	GCC2	GCC2	GRIP and coiled-coil domain containing 2	19299	-0.7769510746002197	-0.25049454	Yes	
+row_14	SNX16	SNX16	sorting nexin 16	19635	-0.8082399964332581	-0.19112308	Yes	
+row_15	AP3M1	AP3M1	adaptor-related protein complex 3, mu 1 subunit	19929	-0.8347936272621155	-0.12723729	Yes	
+row_16	AP3B1	AP3B1	adaptor-related protein complex 3, beta 1 subunit	20237	-0.8693285584449768	-0.060799442	Yes	
+row_17	GNPTAB	GNPTAB	N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits	20344	-0.8850682973861694	0.016832035	Yes	

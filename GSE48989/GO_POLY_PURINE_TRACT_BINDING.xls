@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATXN1	ATXN1	ataxin 1	3224	0.6691566705703735	-0.10378536	No	
+row_1	MCRS1	MCRS1	microspherule protein 1	3620	0.6453222632408142	-0.07259001	No	
+row_2	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	4057	0.6170892715454102	-0.045578532	No	
+row_3	KHDRBS1	KHDRBS1	KH domain containing, RNA binding, signal transduction associated 1	5633	0.4994194805622101	-0.08283251	No	
+row_4	KHDRBS2	KHDRBS2	KH domain containing, RNA binding, signal transduction associated 2	6190	0.4527418315410614	-0.07443595	No	
+row_5	EIF4A3	null	null	8207	0.26936978101730347	-0.15095295	No	
+row_6	TIA1	TIA1	TIA1 cytotoxic granule-associated RNA binding protein	8895	0.1955234557390213	-0.16894247	No	
+row_7	HNRNPU	null	null	17869	-0.6559848785400391	-0.5518333	Yes	
+row_8	RBPMS	RBPMS	RNA binding protein with multiple splicing	18067	-0.6727033257484436	-0.5089264	Yes	
+row_9	PATL1	null	null	18723	-0.7264255881309509	-0.4839854	Yes	
+row_10	SYNCRIP	SYNCRIP	synaptotagmin binding, cytoplasmic RNA interacting protein	19063	-0.756975531578064	-0.4413782	Yes	
+row_11	FMR1	FMR1	fragile X mental retardation 1	19284	-0.775841236114502	-0.39154446	Yes	
+row_12	PABPC4	PABPC4	poly(A) binding protein, cytoplasmic 4 (inducible form)	19458	-0.7912815809249878	-0.33823377	Yes	
+row_13	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	19694	-0.8131557106971741	-0.286217	Yes	
+row_14	ZC3H14	ZC3H14	zinc finger CCCH-type containing 14	19958	-0.8378280997276306	-0.2336314	Yes	
+row_15	PABPC3	PABPC3	poly(A) binding protein, cytoplasmic 3	20040	-0.845658004283905	-0.17163217	Yes	
+row_16	PNPT1	PNPT1	polyribonucleotide nucleotidyltransferase 1	20165	-0.8591715097427368	-0.11065949	Yes	
+row_17	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	20226	-0.868139922618866	-0.045892064	Yes	
+row_18	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	20291	-0.87730473279953	0.01939626	Yes	

@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAF10	TAF10	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa	2691	0.7004051208496094	-0.09061282	No	
+row_1	TAF6	TAF6	TAF6 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 80kDa	2782	0.694646418094635	-0.055686302	No	
+row_2	TAF6L	TAF6L	TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	3489	0.6535829305648804	-0.052890744	No	
+row_3	HCFC1	HCFC1	host cell factor C1 (VP16-accessory protein)	3920	0.6256560683250427	-0.03831851	No	
+row_4	USP51	USP51	ubiquitin specific peptidase 51	5624	0.5000093579292297	-0.09245325	No	
+row_5	USP22	USP22	ubiquitin specific peptidase 22	5945	0.47504374384880066	-0.08107501	No	
+row_6	KAT2A	null	null	6609	0.4135666787624359	-0.089771375	No	
+row_7	TAF5L	TAF5L	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	11345	-0.05116615071892738	-0.31600934	No	
+row_8	TAF7	TAF7	TAF7 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 55kDa	12935	-0.21488139033317566	-0.38075128	No	
+row_9	TADA2B	null	null	13955	-0.3093508183956146	-0.41256815	No	
+row_10	KAT2B	null	null	15123	-0.4148263931274414	-0.44558236	No	
+row_11	ATXN7	ATXN7	ataxin 7	17322	-0.609710693359375	-0.5174671	Yes	
+row_12	SUPT3H	SUPT3H	suppressor of Ty 3 homolog (S. cerevisiae)	17328	-0.6101081371307373	-0.4832079	Yes	
+row_13	ATXN7L3	ATXN7L3	ataxin 7-like 3	17446	-0.6207917332649231	-0.45376438	Yes	
+row_14	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	17491	-0.6253084540367126	-0.42053288	Yes	
+row_15	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	17714	-0.6431981921195984	-0.39490333	Yes	
+row_16	USP27X	USP27X	ubiquitin specific peptidase 27, X-linked	17932	-0.6613159775733948	-0.36800727	Yes	
+row_17	CCDC101	CCDC101	coiled-coil domain containing 101	18525	-0.710136890411377	-0.35649705	Yes	
+row_18	WDR75	WDR75	WD repeat domain 75	18548	-0.711818277835846	-0.3173089	Yes	
+row_19	ENY2	ENY2	enhancer of yellow 2 homolog (Drosophila)	18651	-0.720346987247467	-0.28150973	Yes	
+row_20	TAF4	TAF4	TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa	18955	-0.7462098002433777	-0.25397462	Yes	
+row_21	USP34	USP34	ubiquitin specific peptidase 34	19140	-0.7636919617652893	-0.21969236	Yes	
+row_22	TAF2	TAF2	TAF2 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 150kDa	19843	-0.8268607258796692	-0.20690452	Yes	
+row_23	TAF9B	TAF9B	TAF9B RNA polymerase II, TATA box binding protein (TBP)-associated factor, 31kDa	20054	-0.8479455709457397	-0.16911598	Yes	
+row_24	SUPT7L	SUPT7L	suppressor of Ty 7 (S. cerevisiae)-like	20081	-0.8506571054458618	-0.122270145	Yes	
+row_25	TAF12	TAF12	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa	20215	-0.8670915961265564	-0.07967279	Yes	
+row_26	SAP130	SAP130	Sin3A-associated protein, 130kDa	20224	-0.8678719997406006	-0.030982438	Yes	
+row_27	FAM48A	FAM48A	family with sequence similarity 48, member A	20643	-0.9475126266479492	0.0023712236	Yes	
